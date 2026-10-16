@@ -1,0 +1,112 @@
+{
+  "enabled": true,
+  "version": 1,
+  "quotes": [
+    {
+      "id": "r_001",
+      "text": "[DEV] Placeholder real tweet, easy.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "[DEV] Placeholder tweet source",
+        "url": "https://example.com/tweet/1",
+        "archiveUrl": "https://web.archive.org/web/2026/https://example.com/tweet/1",
+        "date": "2015-01-01"
+      }
+    },
+    {
+      "id": "r_002",
+      "text": "[DEV] Placeholder real tweet, medium.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "[DEV] Placeholder tweet source",
+        "url": "https://example.com/tweet/2",
+        "date": "2016-02-14"
+      }
+    },
+    {
+      "id": "r_003",
+      "text": "[DEV] Placeholder real tweet, hard.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_secondary",
+      "source": {
+        "label": "[DEV] Placeholder tweet source",
+        "url": "https://example.com/tweet/3"
+      }
+    },
+    {
+      "id": "r_004",
+      "text": "[DEV] Placeholder real interview quote, easy.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "[DEV] Placeholder interview, Example Radio, January 1, 2013",
+        "url": "https://example.com/interview/4",
+        "date": "2013-01-01"
+      }
+    },
+    {
+      "id": "r_005",
+      "text": "[DEV] Placeholder real interview quote, medium.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_secondary",
+      "source": {
+        "label": "[DEV] Placeholder interview, Example Magazine, 2018"
+      }
+    },
+    {
+      "id": "r_006",
+      "text": "[DEV] Placeholder unverified real quote. Should never be shown.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "[DEV] Unknown source"
+      }
+    },
+    {
+      "id": "f_001",
+      "text": "[DEV] Placeholder fake quote, easy.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_002",
+      "text": "[DEV] Placeholder fake quote, medium.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_003",
+      "text": "[DEV] Placeholder fake quote, hard.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_004",
+      "text": "[DEV] Placeholder fake quote, another hard one.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    }
+  ]
+}
