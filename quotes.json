@@ -1,112 +1,4984 @@
 {
   "enabled": true,
-  "version": 1,
+  "version": 31,
   "quotes": [
     {
-      "id": "r_001",
-      "text": "[DEV] Placeholder real tweet, easy.",
-      "isReal": true,
-      "type": "tweet",
-      "difficulty": 1,
-      "verificationStatus": "verified_primary",
-      "source": {
-        "label": "[DEV] Placeholder tweet source",
-        "url": "https://example.com/tweet/1",
-        "archiveUrl": "https://web.archive.org/web/2026/https://example.com/tweet/1",
-        "date": "2015-01-01"
-      }
-    },
-    {
-      "id": "r_002",
-      "text": "[DEV] Placeholder real tweet, medium.",
+      "id": "r_007",
+      "text": "Look at your phone as tool not an obligation. Would you walk around with a hammer in your pocket? You would pick up a hammer when you needed it you would never be addicted or obligated to it. Use your phone like a hammer only pick it up when you need it.",
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
       "verificationStatus": "verified_primary",
       "source": {
-        "label": "[DEV] Placeholder tweet source",
-        "url": "https://example.com/tweet/2",
-        "date": "2016-02-14"
-      }
+        "label": "Tweet by @kanyewest, May 21, 2018",
+        "date": "2018-05-21"
+      },
+      "image": "r_007.jpg"
     },
     {
-      "id": "r_003",
-      "text": "[DEV] Placeholder real tweet, hard.",
+      "id": "r_008",
+      "text": "Don't follow crowds. Follow the innate feelings inside of you. Do what you feel not what you think. Thoughts have been placed in our heads to make everyone assimilate. Follow what you feel.",
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "verified_secondary",
+      "verificationStatus": "verified_primary",
       "source": {
-        "label": "[DEV] Placeholder tweet source",
-        "url": "https://example.com/tweet/3"
-      }
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_008.jpg"
     },
     {
-      "id": "r_004",
-      "text": "[DEV] Placeholder real interview quote, easy.",
+      "id": "r_009",
+      "text": "I don't believe in the concept of an enemy. We have been conditioned to always be in competition. Stop looking for something to beat and just be. You don't have to do all the work. Once you start moving in love the universe will assist you.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_009.jpg"
+    },
+    {
+      "id": "r_010",
+      "text": "You have to protect your ability to create at all cost",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 17, 2018",
+        "date": "2018-04-17"
+      },
+      "image": "r_010.jpg"
+    },
+    {
+      "id": "r_011",
+      "text": "try telling people you love them it actually feels weird at first. We're really good at hating each other. We have to get good at loving each other.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "date": "2018-04-26"
+      },
+      "image": "r_011.jpg"
+    },
+    {
+      "id": "r_012",
+      "text": "self victimization is a disease",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 22, 2018",
+        "date": "2018-04-22"
+      },
+      "image": "r_012.jpg"
+    },
+    {
+      "id": "r_013",
+      "text": "distraction is the enemy of vision",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 17, 2018",
+        "date": "2018-04-17"
+      },
+      "image": "r_013.jpg"
+    },
+    {
+      "id": "r_014",
+      "text": "often people working with the existing consciousness are jealous of those who are more in touch and they become hard-core capitalist in hopes of creating the illusion that the value of money is worth more than the value of time and friends",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 15, 2018",
+        "date": "2018-04-15"
+      },
+      "image": "r_014.jpg"
+    },
+    {
+      "id": "r_015",
+      "text": "You have the best ideas. Other people's opinions are usually more distractive than informative. Follow your own vision. base your actions on love. Do things you love and if you don't absolutely love something stop doing it as soon as you can.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_015.jpg"
+    },
+    {
+      "id": "r_016",
+      "text": "get past the past",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 21, 2018",
+        "date": "2018-04-21"
+      },
+      "image": "r_016.jpg"
+    },
+    {
+      "id": "r_017",
+      "text": "everything you do in life stems from either fear or love",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 17, 2018",
+        "date": "2018-04-17"
+      },
+      "image": "r_017.jpg"
+    },
+    {
+      "id": "r_018",
+      "text": "all you have to be is yourself",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 20, 2018",
+        "date": "2018-04-20"
+      },
+      "image": "r_018.jpg"
+    },
+    {
+      "id": "r_019",
+      "text": "Trust your feelings. Stop thinking so much",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 28, 2018",
+        "date": "2018-04-28"
+      },
+      "image": "r_019.jpg"
+    },
+    {
+      "id": "r_020",
+      "text": "Constantly bringing up the past keeps you stuck there",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 22, 2018",
+        "date": "2018-04-22"
+      },
+      "image": "r_020.jpg"
+    },
+    {
+      "id": "r_021",
+      "text": "when you first wake up don't hop right on the phone or the internet or even speak to anyone for even up to an hour if possible. Just be still and enjoy your own imagination. It's better than any movie.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_021.jpg"
+    },
+    {
+      "id": "r_022",
+      "text": "Be here now. Be in the moment. The now is the greatest moment of our lives and it just keeps getting better. The bad parts the boring parts the parts with high anxiety. Embrace every moment for its greatness. This is life. This is the greatest movie we will ever see.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_022.jpg"
+    },
+    {
+      "id": "r_023",
+      "text": "Some people have to work within the existing consciousness while some people can shift the consciousness",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 15, 2018",
+        "date": "2018-04-15"
+      },
+      "image": "r_023.jpg"
+    },
+    {
+      "id": "r_024",
+      "text": "everyone should be their own biggest fan",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 23, 2018",
+        "date": "2018-04-23"
+      },
+      "image": "r_024.jpg"
+    },
+    {
+      "id": "r_025",
+      "text": "no race religion region or political party can argue with the power of love",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "date": "2018-04-25"
+      },
+      "image": "r_025.jpg"
+    },
+    {
+      "id": "r_026",
+      "text": "Free thinkers don't fear retaliation for your thoughts. The traditional thinkers are only using thoughts and words but they are in a mental prison. You are free. You've already won. Feel energized. Move in love not fear. Be afraid of nothing.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "date": "2018-04-25"
+      },
+      "image": "r_026.jpg"
+    },
+    {
+      "id": "r_027",
+      "text": "never a master. Always a student.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 24, 2018",
+        "date": "2018-04-24"
+      },
+      "image": "r_027.jpg"
+    },
+    {
+      "id": "r_028",
+      "text": "new ideas will no longer be condemned by the masses. We are on the frontier of massive change. Starting from breaking out of our mental prisons.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 23, 2018",
+        "date": "2018-04-23"
+      },
+      "image": "r_028.jpg"
+    },
+    {
+      "id": "r_029",
+      "text": "question everything",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 22, 2018",
+        "date": "2018-04-22"
+      },
+      "image": "r_029.jpg"
+    },
+    {
+      "id": "r_030",
+      "text": "be fearless. Express what you feel not what you've been programmed to think.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 21, 2018",
+        "date": "2018-04-21"
+      },
+      "image": "r_030.jpg"
+    },
+    {
+      "id": "r_031",
+      "text": "don't trade your authenticity for approval",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_031.jpg"
+    },
+    {
+      "id": "r_032",
+      "text": "just stop lying about shit. Just stop lying.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "date": "2018-04-18"
+      },
+      "image": "r_032.jpg"
+    },
+    {
+      "id": "r_033",
+      "text": "trust your feelings don't calculate your perception",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 27, 2018",
+        "date": "2018-07-27"
+      },
+      "image": "r_033.jpg"
+    },
+    {
+      "id": "r_034",
+      "text": "stop trying start doing",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 27, 2018",
+        "date": "2018-07-27"
+      },
+      "image": "r_034.jpg"
+    },
+    {
+      "id": "r_035",
+      "text": "pride is selfish",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_035.jpg"
+    },
+    {
+      "id": "r_036",
+      "text": "love is generous",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_036.jpg"
+    },
+    {
+      "id": "r_037",
+      "text": "love is infectious",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_037.jpg"
+    },
+    {
+      "id": "r_038",
+      "text": "you can love everyone but everyone isn't your tribe",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_038.jpg"
+    },
+    {
+      "id": "r_039",
+      "text": "you can love people that you don't want to go to lunch with everyday",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_039.jpg"
+    },
+    {
+      "id": "r_040",
+      "text": "Follow your heart and find your tribe. Your tribe are people with similar passions",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_040.jpg"
+    },
+    {
+      "id": "r_041",
+      "text": "replace pride with love",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_041.jpg"
+    },
+    {
+      "id": "r_042",
+      "text": "instead of saying I'm proud you can say I love this",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_042.jpg"
+    },
+    {
+      "id": "r_043",
+      "text": "do things from love not ego and not pride",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 29, 2018",
+        "date": "2018-07-29"
+      },
+      "image": "r_043.jpg"
+    },
+    {
+      "id": "r_044",
+      "text": "when in doubt... don't",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, July 12, 2018",
+        "date": "2018-07-12"
+      },
+      "image": "r_044.jpg"
+    },
+    {
+      "id": "r_045",
+      "text": "Sometimes you have to get rid of everything",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, April 17, 2018",
+        "date": "2018-04-17"
+      },
+      "image": "r_045.jpg"
+    },
+    {
+      "id": "r_046",
+      "text": "I understand that you don't like me but I need you to understand that I don't care.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, November 28, 2017",
+        "date": "2017-11-28"
+      },
+      "image": "r_046.jpg"
+    },
+    {
+      "id": "r_047",
+      "text": "Life is the ultimate gift",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, November 3, 2020",
+        "date": "2020-11-03"
+      },
+      "image": "r_047.jpg"
+    },
+    {
+      "id": "r_048",
+      "text": "So many of us need so much less than we have especially when so many of us are in need",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, November 2, 2020",
+        "date": "2020-11-02"
+      },
+      "image": "r_048.jpg"
+    },
+    {
+      "id": "r_049",
+      "text": "My memories are from the future",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, October 17, 2020",
+        "date": "2020-10-17"
+      },
+      "image": "r_049.jpg"
+    },
+    {
+      "id": "r_050",
+      "text": "From $53 million in debt to a net worth of $5 billion in 4 years. Thank you, Jesus. I know I fall short, but I repent. I am fully in service to our Lord and Savior Jesus Christ. We are building schools of the future. Thank God for providing the increase.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest"
+      },
+      "image": "r_050.jpg"
+    },
+    {
+      "id": "r_051",
+      "text": "WINNING IS THE ONLY OPTION",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, September 22, 2020",
+        "date": "2020-09-22"
+      },
+      "image": "r_051.jpg"
+    },
+    {
+      "id": "r_052",
+      "text": "The world needs more Joy... this idea is super fresh",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, September 2, 2020",
+        "date": "2020-09-02"
+      },
+      "image": "r_052.jpg"
+    },
+    {
+      "id": "r_053",
+      "text": "free thinking is a super power",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest"
+      },
+      "image": "r_053.jpg"
+    },
+    {
+      "id": "r_054",
+      "text": "we don't try. we do",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, September 12, 2018",
+        "date": "2018-09-12"
+      },
+      "image": "r_054.jpg"
+    },
+    {
+      "id": "r_055",
+      "text": "question... Why do people not want me to be me?",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, March 7, 2016",
+        "date": "2016-03-07"
+      },
+      "image": "r_055.jpg"
+    },
+    {
+      "id": "r_056",
+      "text": "once again I am being attacked for presenting new ideas",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Tweet by @kanyewest, May 2, 2018",
+        "date": "2018-05-02"
+      },
+      "image": "r_056.jpg"
+    },
+    {
+      "id": "r_057",
+      "text": "Nothing in life is promised except death.",
       "isReal": true,
       "type": "interview",
       "difficulty": 1,
       "verificationStatus": "verified_primary",
       "source": {
-        "label": "[DEV] Placeholder interview, Example Radio, January 1, 2013",
-        "url": "https://example.com/interview/4",
-        "date": "2013-01-01"
-      }
+        "label": "Grammy Awards acceptance speech, Best Rap Album, 2005"
+      },
+      "image": "r_057.jpg"
     },
     {
-      "id": "r_005",
-      "text": "[DEV] Placeholder real interview quote, medium.",
+      "id": "r_058",
+      "text": "Everybody wants to know what I would do if I didn't win. I guess we'll never know.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Grammy Awards acceptance speech, Best Rap Album, 2005"
+      },
+      "image": "r_058.jpg"
+    },
+    {
+      "id": "r_060",
+      "text": "If I was to quit rapping and I say I want to go to the NBA, I would be in the NBA.",
       "isReal": true,
       "type": "interview",
       "difficulty": 2,
-      "verificationStatus": "verified_secondary",
+      "verificationStatus": "verified_primary",
       "source": {
-        "label": "[DEV] Placeholder interview, Example Magazine, 2018"
-      }
+        "label": "Charlie Rose interview, PBS, 2005"
+      },
+      "image": "r_060.jpg"
     },
     {
-      "id": "r_006",
-      "text": "[DEV] Placeholder unverified real quote. Should never be shown.",
+      "id": "r_062",
+      "text": "If you're a Kanye West fan, you're not a fan of me, you're a fan of yourself.",
       "isReal": true,
       "type": "interview",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, BBC Radio 1, 2013"
+      },
+      "image": "r_062.jpg"
+    },
+    {
+      "id": "r_063",
+      "text": "I'm just the espresso. I'm just the shot in the morning to get you going.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, BBC Radio 1, 2013"
+      },
+      "image": "r_063.jpg"
+    },
+    {
+      "id": "r_064",
+      "text": "To be a visionary all you have to do is make decisions based off of your eyes instead of your ears and your memory.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, BBC Radio 1, 2013"
+      },
+      "image": "r_064.jpg"
+    },
+    {
+      "id": "r_065",
+      "text": "There's glass ceilings. There's glass fences. There's invisible walls.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, BBC Radio 1, 2013"
+      },
+      "image": "r_065.jpg"
+    },
+    {
+      "id": "r_066",
+      "text": "I just told you who I thought I was, a God.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, BBC Radio 1, 2013"
+      },
+      "image": "r_066.jpg"
+    },
+    {
+      "id": "r_067",
+      "text": "The only luxury is time. The time you spend with your family.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Jimmy Kimmel Live, 2013"
+      },
+      "image": "r_067.jpg"
+    },
+    {
+      "id": "r_068",
+      "text": "You're not going to bully me, you're not going to stop me, because my mother made me believe in myself.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Jimmy Kimmel Live, 2013"
+      },
+      "image": "r_068.jpg"
+    },
+    {
+      "id": "r_069",
+      "text": "Sometimes you just have to be fearless enough to break the simulation.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Jimmy Kimmel Live, 2018"
+      },
+      "image": "r_069.jpg"
+    },
+    {
+      "id": "r_070",
+      "text": "I've heard of history class. I've never heard of a future class.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Jimmy Kimmel Live, 2018"
+      },
+      "image": "r_070.jpg"
+    },
+    {
+      "id": "r_071",
+      "text": "I feel like 10% of life is what happens to you, 90% is how you react to it.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Interview, c. 2001"
+      },
+      "image": "r_071.jpg"
+    },
+    {
+      "id": "r_072",
+      "text": "I'm going to use everything that everybody says that I can't do, and I'm going to flip it to the positive.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Interview, c. 2001"
+      },
+      "image": "r_072.jpg"
+    },
+    {
+      "id": "r_073",
+      "text": "If every time someone asks you a question, you try to say the right answer, your entire life is a test.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, Wyoming, October 2019"
+      },
+      "image": "r_073.jpg"
+    },
+    {
+      "id": "r_074",
+      "text": "My mama said trying is failing.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, Wyoming, October 2019"
+      },
+      "image": "r_074.jpg"
+    },
+    {
+      "id": "r_075",
+      "text": "There is no ifs, woulds, coulds, shoulds, it just is.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Zane Lowe interview, Wyoming, October 2019"
+      },
+      "image": "r_075.jpg"
+    },
+    {
+      "id": "r_076",
+      "text": "Just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Interview by Tomas Koolhaas, October 2013"
+      },
+      "image": "r_076.jpg"
+    },
+    {
+      "id": "r_077",
+      "text": "At any moment I could hit that yay button and we can go right back to day one.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Interview"
+      },
+      "image": "r_077.jpg"
+    },
+    {
+      "id": "r_078",
+      "text": "I will fucking laser you with alien fucking eyes and explode your fucking head.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "Screen Tests interview, 2016"
+      },
+      "image": "r_078.jpg"
+    },
+    {
+      "id": "r_079",
+      "text": "It shouldn't be no way for me to lose, really.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "jeen-yuhs: A Kanye Trilogy, Netflix, 2022"
+      },
+      "image": "r_079.jpg"
+    },
+    {
+      "id": "f_005",
+      "text": "the most expensive thing you own is your opinion of yourself",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_006",
+      "text": "comfort is a slow form of quitting",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_007",
+      "text": "I dont follow trends I follow frequencies",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_008",
+      "text": "every room I walk into becomes a studio",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_009",
+      "text": "WE ARE THE ARCHITECTS NOT THE TENANTS",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_010",
+      "text": "silence is the loudest feature",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_011",
+      "text": "if your vision fits in a room build a bigger room",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_012",
+      "text": "stop asking for permission to be legendary",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_013",
+      "text": "the future doesn't need your approval it needs your participation",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_014",
+      "text": "I wake up and choose genius. Every single day.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_015",
+      "text": "doubt is just fear wearing a suit",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_016",
+      "text": "I'M NOT IN THE MUSIC BUSINESS I'M IN THE FEELING BUSINESS",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_017",
+      "text": "minimalism is when you remove everything except the truth",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_018",
+      "text": "be so original they have to invent a new word for you",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_019",
+      "text": "I have never been early or late. I arrive when the moment is ready",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_020",
+      "text": "trends are just yesterday's ideas asking for a second chance",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_021",
+      "text": "gratitude is the best production software",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_022",
+      "text": "the only competition is the person you were at breakfast",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_023",
+      "text": "People think creativity is a gift. No. Creativity is a muscle, and I go to the gym every day.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_024",
+      "text": "I don't make albums. I make time capsules.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_025",
+      "text": "Everybody wants the crown but nobody wants to carry the weight of the jewels.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_026",
+      "text": "I see colors when I hear critics. Mostly beige.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_027",
+      "text": "My ideas don't come to me. They come through me.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_028",
+      "text": "You can't microwave a masterpiece.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_029",
+      "text": "I'm not arrogant, I'm early.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_030",
+      "text": "Fashion is architecture you can wear to the grocery store.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_031",
+      "text": "If you understand everything I say, I'm not saying enough.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_032",
+      "text": "The word impossible was invented by people who stopped at the first try.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_033",
+      "text": "I would rather be misunderstood than be ordinary. Ordinary is the real crime.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "f_034",
+      "text": "SOME PEOPLE COUNT MONEY I COUNT IDEAS",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "unverified"
+    },
+    {
+      "id": "r_080",
+      "text": "I saw a pre-screening of Pacific Rim yesterday and it's easily one of my favorite movies of all time.",
+      "isReal": true,
+      "type": "tweet",
       "difficulty": 2,
       "verificationStatus": "unverified",
       "source": {
-        "label": "[DEV] Unknown source"
+        "label": "Tweet by @kanyewest, July 4, 2013",
+        "url": "https://twitter.com/kanyewest/status/352660601681625088",
+        "archiveUrl": "https://web.archive.org/web/20130709094507/https://twitter.com/kanyewest/status/352660601681625088",
+        "date": "2013-07-04"
+      },
+      "image": "r_080.jpg"
+    },
+    {
+      "id": "r_081",
+      "text": "I open the debate… The 2nd verse of New Slaves is the best rap verse of all time….meaning … OF ALL TIME IN THE HISTORY OF RAP MUSIC, PERIOD",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 20, 2013",
+        "url": "https://twitter.com/kanyewest/status/358614185086693377",
+        "archiveUrl": "https://web.archive.org/web/20130723113900/https://twitter.com/kanyewest/status/358614185086693377",
+        "date": "2013-07-20"
+      },
+      "image": "r_081.jpg"
+    },
+    {
+      "id": "r_082",
+      "text": "Despite recent media reports, I've never said anything to dishonor or trivialize the life or transition of one of the most inspiring leaders",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 9, 2013",
+        "url": "https://twitter.com/kanyewest/status/410096820291772416",
+        "archiveUrl": "https://web.archive.org/web/20131209235718/https://twitter.com/kanyewest/status/410096820291772416",
+        "date": "2013-12-09"
+      },
+      "image": "r_082.jpg"
+    },
+    {
+      "id": "r_083",
+      "text": "I'd like to address the false stories and noise that have been engineered by the media.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 9, 2013",
+        "url": "https://twitter.com/kanyewest/status/410097053021130752",
+        "archiveUrl": "https://web.archive.org/web/20131209235701/https://twitter.com/kanyewest/status/410097053021130752",
+        "date": "2013-12-09"
+      },
+      "image": "r_083.jpg"
+    },
+    {
+      "id": "r_084",
+      "text": "I wake up every day trying to give something back to you that you can rock to and be proud of.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 10, 2014",
+        "url": "https://twitter.com/kanyewest/status/432952954711056384",
+        "archiveUrl": "https://web.archive.org/web/20140211181950/https://twitter.com/kanyewest/status/432952954711056384",
+        "date": "2014-02-10"
+      },
+      "image": "r_084.jpg"
+    },
+    {
+      "id": "r_085",
+      "text": "to not only convince my peers and the public that I could be an artist, but to actually get that art out for the world to hear.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 10, 2014",
+        "url": "https://twitter.com/kanyewest/status/432952731121115137",
+        "archiveUrl": "https://web.archive.org/web/20140211181937/https://twitter.com/kanyewest/status/432952731121115137",
+        "date": "2014-02-10"
+      },
+      "image": "r_085.jpg"
+    },
+    {
+      "id": "r_086",
+      "text": "Ten years later I am still the same kid from Chicago, still dreaming out loud, still banging on the door.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 10, 2014",
+        "url": "https://twitter.com/kanyewest/status/432952992677896192",
+        "archiveUrl": "https://web.archive.org/web/20140211181954/https://twitter.com/kanyewest/status/432952992677896192",
+        "date": "2014-02-10"
+      },
+      "image": "r_086.jpg"
+    },
+    {
+      "id": "r_091",
+      "text": "It is very exciting to see what powerful creatives do at different houses...",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, October 6, 2014",
+        "url": "https://twitter.com/kanyewest/status/519063062184083456",
+        "archiveUrl": "https://web.archive.org/web/20151110024322/https://twitter.com/kanyewest/status/519063062184083456",
+        "date": "2014-10-06"
+      },
+      "image": "r_091.jpg"
+    },
+    {
+      "id": "r_092",
+      "text": "The midterms are extremely important",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, November 4, 2014",
+        "url": "https://twitter.com/kanyewest/status/529775685447843841",
+        "archiveUrl": "https://web.archive.org/web/20151011072841/https://twitter.com/kanyewest/status/529775685447843841",
+        "date": "2014-11-04"
+      },
+      "image": "r_092.jpg"
+    },
+    {
+      "id": "r_093",
+      "text": "I'm supporting the Democratic ticket in these midterms",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, November 4, 2014",
+        "url": "https://twitter.com/kanyewest/status/529775530225065984",
+        "archiveUrl": "https://web.archive.org/web/20150131165304/https://twitter.com/kanyewest/status/529775530225065984",
+        "date": "2014-11-04"
+      },
+      "image": "r_093.jpg"
+    },
+    {
+      "id": "r_094",
+      "text": "and I have encountered countless amounts of bigotry along the way.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 20, 2015",
+        "url": "https://twitter.com/kanyewest/status/568799064843685888",
+        "archiveUrl": "https://web.archive.org/web/20161122113756/https://twitter.com/kanyewest/status/568799064843685888",
+        "date": "2015-02-20"
+      },
+      "image": "r_094.jpg"
+    },
+    {
+      "id": "r_095",
+      "text": "All we have are our dreams, and you can step on our dreams and ideas all you want, but we won’t stop fighting.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 20, 2015",
+        "url": "https://twitter.com/kanyewest/status/568799246226292737",
+        "archiveUrl": "https://web.archive.org/web/20161122113814/https://twitter.com/kanyewest/status/568799246226292737",
+        "date": "2015-02-20"
+      },
+      "image": "r_095.jpg"
+    },
+    {
+      "id": "r_096",
+      "text": "Fame is often looked down upon in the design world, so it’s actually been something I had to overcome.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 20, 2015",
+        "url": "https://twitter.com/kanyewest/status/568799196234387457",
+        "archiveUrl": "https://web.archive.org/web/20150512124915/https://twitter.com/kanyewest/status/568799196234387457",
+        "date": "2015-02-20"
+      },
+      "image": "r_096.jpg"
+    },
+    {
+      "id": "r_097",
+      "text": "We want to innovate and we will win someday.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 20, 2015",
+        "url": "https://twitter.com/kanyewest/status/568799361599082496",
+        "archiveUrl": "https://web.archive.org/web/20160223025939/https://twitter.com/kanyewest/status/568799361599082496",
+        "date": "2015-02-20"
+      },
+      "image": "r_097.jpg"
+    },
+    {
+      "id": "r_098",
+      "text": "I’M SO LUCKY",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 16, 2015",
+        "url": "https://twitter.com/kanyewest/status/577528628465917952",
+        "archiveUrl": "https://web.archive.org/web/20160331082423/https://twitter.com/kanyewest/status/577528628465917952",
+        "date": "2015-03-16"
       }
     },
     {
-      "id": "f_001",
-      "text": "[DEV] Placeholder fake quote, easy.",
-      "isReal": false,
-      "type": "fake",
-      "difficulty": 1,
-      "verificationStatus": "verified_primary"
-    },
-    {
-      "id": "f_002",
-      "text": "[DEV] Placeholder fake quote, medium.",
-      "isReal": false,
-      "type": "fake",
+      "id": "r_099",
+      "text": "Akira and There Will Be Blood are equally my 2 favorite movies of all time.",
+      "isReal": true,
+      "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "verified_primary"
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 10, 2015",
+        "url": "https://twitter.com/kanyewest/status/586360975151927297",
+        "archiveUrl": "https://web.archive.org/web/20150804052034/https://twitter.com/kanyewest/status/586360975151927297",
+        "date": "2015-04-10"
+      },
+      "image": "r_099.jpg"
     },
     {
-      "id": "f_003",
-      "text": "[DEV] Placeholder fake quote, hard.",
-      "isReal": false,
-      "type": "fake",
-      "difficulty": 3,
-      "verificationStatus": "verified_primary"
+      "id": "r_100",
+      "text": "I want to steer clear of “opportunities\" and focus on dreams.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 11, 2015",
+        "url": "https://twitter.com/kanyewest/status/586724932421193728",
+        "archiveUrl": "https://web.archive.org/web/20160214013828/https://twitter.com/kanyewest/status/586724932421193728",
+        "date": "2015-04-11"
+      },
+      "image": "r_100.jpg"
     },
     {
-      "id": "f_004",
-      "text": "[DEV] Placeholder fake quote, another hard one.",
-      "isReal": false,
-      "type": "fake",
+      "id": "r_101",
+      "text": "no offense to anyone… I’m asking everyone   DON’T ASK ME FOR ANYTHING TILL AFTER I’M FINISHED WITH MY ALBUM",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 13, 2015",
+        "url": "https://twitter.com/kanyewest/status/675934047332261888",
+        "archiveUrl": "https://web.archive.org/web/20160213145322/https://twitter.com/kanyewest/status/675934047332261888",
+        "date": "2015-12-13"
+      },
+      "image": "r_101.jpg"
+    },
+    {
+      "id": "r_102",
+      "text": "The Devil can’t stop us",
+      "isReal": true,
+      "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "verified_primary"
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, January 27, 2016",
+        "url": "https://twitter.com/kanyewest/status/692446531404877827",
+        "archiveUrl": "https://web.archive.org/web/20160129072434/https://twitter.com/kanyewest/status/692446531404877827",
+        "date": "2016-01-27"
+      },
+      "image": "r_102.jpg"
+    },
+    {
+      "id": "r_103",
+      "text": "So many musicians touch my life and made me who I am…    I want to make something great to honor my idols…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 3, 2016",
+        "url": "https://twitter.com/kanyewest/status/694721638714052608",
+        "archiveUrl": "https://web.archive.org/web/20160505042849/https://twitter.com/kanyewest/status/694721638714052608",
+        "date": "2016-02-03"
+      },
+      "image": "r_103.jpg"
+    },
+    {
+      "id": "r_104",
+      "text": "It was always a dream to have a listening party at Madison Square Garden",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 4, 2016",
+        "url": "https://twitter.com/kanyewest/status/695265381670219778",
+        "archiveUrl": "https://web.archive.org/web/20170109201732/https://twitter.com/kanyewest/status/695265381670219778",
+        "date": "2016-02-04"
+      },
+      "image": "r_104.jpg"
+    },
+    {
+      "id": "r_105",
+      "text": "8th   They want to control us with money and perception and mute the culture",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 12, 2016",
+        "url": "https://twitter.com/kanyewest/status/698147489057218560",
+        "archiveUrl": "https://web.archive.org/web/20160213020234/https://twitter.com/kanyewest/status/698147489057218560",
+        "date": "2016-02-12"
+      },
+      "image": "r_105.jpg"
+    },
+    {
+      "id": "r_106",
+      "text": "6th  Stop trying to demonize real artist     Stop trying to compromise art",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 12, 2016",
+        "url": "https://twitter.com/kanyewest/status/698147169182810112",
+        "archiveUrl": "https://web.archive.org/web/20160213020210/https://twitter.com/kanyewest/status/698147169182810112",
+        "date": "2016-02-12"
+      },
+      "image": "r_106.jpg"
+    },
+    {
+      "id": "r_107",
+      "text": "I can’t be mad at Kanye because he made me famous!  #FACTS",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 12, 2016",
+        "url": "https://twitter.com/kanyewest/status/698146943927787522",
+        "archiveUrl": "https://web.archive.org/web/20160213020201/https://twitter.com/kanyewest/status/698146943927787522",
+        "date": "2016-02-12"
+      },
+      "image": "r_107.jpg"
+    },
+    {
+      "id": "r_108",
+      "text": "so many people didn’t make it and gave everything they had for me to stand on their shoulders and break through fashion…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 13, 2016",
+        "url": "https://twitter.com/kanyewest/status/698421874754072576",
+        "archiveUrl": "https://web.archive.org/web/20170128234858/https://twitter.com/kanyewest/status/698421874754072576",
+        "date": "2016-02-13"
+      },
+      "image": "r_108.jpg"
+    },
+    {
+      "id": "r_109",
+      "text": "I’M SO HYPE RIGHT NOW    EVERYTHING HAS CHANGED  … HAVE YA’LL EVER SEEN TRON? THE END OF THE TRON WHERE EVERYTHING LIGHT UP!!!!",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 13, 2016",
+        "url": "https://twitter.com/kanyewest/status/698422992041160704",
+        "archiveUrl": "https://web.archive.org/web/20160213154428/https://twitter.com/kanyewest/status/698422992041160704",
+        "date": "2016-02-13"
+      },
+      "image": "r_109.jpg"
+    },
+    {
+      "id": "r_110",
+      "text": "fashion ain’t no joke for me… It’s a way of life… creative expression and industry…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 13, 2016",
+        "url": "https://twitter.com/kanyewest/status/698421911110352896",
+        "archiveUrl": "https://web.archive.org/web/20160216051834/https://twitter.com/kanyewest/status/698421911110352896",
+        "date": "2016-02-13"
+      },
+      "image": "r_110.jpg"
+    },
+    {
+      "id": "r_111",
+      "text": "HAD TO ALL CAPS THIS!!!!!! NO MORE RULES…. MAKE YOUR OWN RULES…   ok now back to finishing Pablo",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 13, 2016",
+        "url": "https://twitter.com/kanyewest/status/698423521370705920",
+        "archiveUrl": "https://web.archive.org/web/20160213210059/https://twitter.com/kanyewest/status/698423521370705920",
+        "date": "2016-02-13"
+      },
+      "image": "r_111.jpg"
+    },
+    {
+      "id": "r_112",
+      "text": "I’m a human being… I’m an artist, bro…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 13, 2016",
+        "url": "https://twitter.com/kanyewest/status/698421813919948800",
+        "archiveUrl": "https://web.archive.org/web/20160812044709/https://twitter.com/kanyewest/status/698421813919948800",
+        "date": "2016-02-13"
+      },
+      "image": "r_112.jpg"
+    },
+    {
+      "id": "r_113",
+      "text": "This is all all is fun all in good feelings... We will all be gone 100 years from now but what did we do to help while we were here!!!",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 14, 2016",
+        "url": "https://twitter.com/kanyewest/status/698699981688074240",
+        "archiveUrl": "https://web.archive.org/web/20160505073138/https://twitter.com/kanyewest/status/698699981688074240",
+        "date": "2016-02-14"
+      },
+      "image": "r_113.jpg"
+    },
+    {
+      "id": "r_114",
+      "text": "Let's dance in the streets. I am consumed by my purpose to help the world.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 14, 2016",
+        "url": "https://twitter.com/kanyewest/status/698699798673809409",
+        "archiveUrl": "https://web.archive.org/web/20160620124043/https://twitter.com/kanyewest/status/698699798673809409",
+        "date": "2016-02-14"
+      },
+      "image": "r_114.jpg"
+    },
+    {
+      "id": "r_115",
+      "text": "I made Dark Fantasy and Watch the Throne in one year and wasn't nominated for either ...",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699090219493097472",
+        "archiveUrl": "https://web.archive.org/web/20160216014009/https://twitter.com/kanyewest/status/699090219493097472",
+        "date": "2016-02-15"
+      },
+      "image": "r_115.jpg"
+    },
+    {
+      "id": "r_116",
+      "text": "No matter what level you're at in life there is still a struggle",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699308848813723649",
+        "archiveUrl": "https://web.archive.org/web/20160216171854/https://twitter.com/kanyewest/status/699308848813723649",
+        "date": "2016-02-15"
+      },
+      "image": "r_116.jpg"
+    },
+    {
+      "id": "r_117",
+      "text": "This was made with love. Only God can judge me. So I only expect love back!!!",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699374943637647360",
+        "archiveUrl": "https://web.archive.org/web/20160216013518/https://twitter.com/kanyewest/status/699374943637647360",
+        "date": "2016-02-15"
+      },
+      "image": "r_117.jpg"
+    },
+    {
+      "id": "r_118",
+      "text": "I know I can make the world a better place… I have done the impossible … I retook the throne of rap… I beat the fashion game…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699107972107104257",
+        "archiveUrl": "https://web.archive.org/web/20160216014019/https://twitter.com/kanyewest/status/699107972107104257",
+        "date": "2016-02-15"
+      },
+      "image": "r_118.jpg"
+    },
+    {
+      "id": "r_119",
+      "text": "The system is designed for colored people to fail and one of our only voices is music. One of our only ways out is music.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699374593996300288",
+        "archiveUrl": "https://web.archive.org/web/20160216013511/https://twitter.com/kanyewest/status/699374593996300288",
+        "date": "2016-02-15"
+      },
+      "image": "r_119.jpg"
+    },
+    {
+      "id": "r_120",
+      "text": "Also for anyone that has money they know the first rule is to use other people's money.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699308079171522561",
+        "archiveUrl": "https://web.archive.org/web/20160216013013/https://twitter.com/kanyewest/status/699308079171522561",
+        "date": "2016-02-15"
+      },
+      "image": "r_120.jpg"
+    },
+    {
+      "id": "r_121",
+      "text": "This is a God dream",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 15, 2016",
+        "url": "https://twitter.com/kanyewest/status/699308725962575878",
+        "archiveUrl": "https://web.archive.org/web/20160216013024/https://twitter.com/kanyewest/status/699308725962575878",
+        "date": "2016-02-15"
+      },
+      "image": "r_121.jpg"
+    },
+    {
+      "id": "r_122",
+      "text": "Money doesn’t make me who I am…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 16, 2016",
+        "url": "https://twitter.com/kanyewest/status/699502974448640000",
+        "archiveUrl": "https://web.archive.org/web/20161004062105/https://twitter.com/kanyewest/status/699502974448640000",
+        "date": "2016-02-16"
+      },
+      "image": "r_122.jpg"
+    },
+    {
+      "id": "r_123",
+      "text": "I really didn’t mean to use the B word tonight    …  all positive vibes",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702441966341062657",
+        "archiveUrl": "https://web.archive.org/web/20160224163808/https://twitter.com/kanyewest/status/702441966341062657",
+        "date": "2016-02-24"
+      },
+      "image": "r_123.jpg"
+    },
+    {
+      "id": "r_124",
+      "text": "No slave mindset no more. I'm free. I'm free. I'm free.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702564426461913092",
+        "archiveUrl": "https://web.archive.org/web/20160224184708/https://twitter.com/kanyewest/status/702564426461913092",
+        "date": "2016-02-24"
+      },
+      "image": "r_124.jpg"
+    },
+    {
+      "id": "r_125",
+      "text": "I love being a voice of freedom when so many people are scared to speak up.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702568134847406080",
+        "archiveUrl": "https://web.archive.org/web/20160224190211/https://twitter.com/kanyewest/status/702568134847406080",
+        "date": "2016-02-24"
+      },
+      "image": "r_125.jpg"
+    },
+    {
+      "id": "r_126",
+      "text": "I'm not a rapper.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702606143135342594",
+        "archiveUrl": "https://web.archive.org/web/20160224230209/https://twitter.com/kanyewest/status/702606143135342594",
+        "date": "2016-02-24"
+      },
+      "image": "r_126.jpg"
+    },
+    {
+      "id": "r_127",
+      "text": "The world needs a guy like me. The world needs somebody to not be scared and tell his truth.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702568190698725376",
+        "archiveUrl": "https://web.archive.org/web/20160224190211/https://twitter.com/kanyewest/status/702568190698725376",
+        "date": "2016-02-24"
+      },
+      "image": "r_127.jpg"
+    },
+    {
+      "id": "r_128",
+      "text": "There are some lame fake accounts trying to make Kanye-isms that are not Mark Twain level.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702627165146386433",
+        "archiveUrl": "https://web.archive.org/web/20160224230211/https://twitter.com/kanyewest/status/702627165146386433",
+        "date": "2016-02-24"
+      },
+      "image": "r_128.jpg"
+    },
+    {
+      "id": "r_129",
+      "text": "Us real music guys wanna have fun too",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702563738512203776",
+        "archiveUrl": "https://web.archive.org/web/20160224184408/https://twitter.com/kanyewest/status/702563738512203776",
+        "date": "2016-02-24"
+      },
+      "image": "r_129.jpg"
+    },
+    {
+      "id": "r_130",
+      "text": "You guys will see my heart. You guys will feel my heart. We will make a difference.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, February 24, 2016",
+        "url": "https://twitter.com/kanyewest/status/702565054047244289",
+        "archiveUrl": "https://web.archive.org/web/20160224184714/https://twitter.com/kanyewest/status/702565054047244289",
+        "date": "2016-02-24"
+      },
+      "image": "r_130.jpg"
+    },
+    {
+      "id": "r_131",
+      "text": "I’m very detailed oriented and I will know the difference so don’t try to just throw a bow on the original head…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 2, 2016",
+        "url": "https://twitter.com/kanyewest/status/705100610002096128",
+        "archiveUrl": "https://web.archive.org/web/20160505072047/https://twitter.com/kanyewest/status/705100610002096128",
+        "date": "2016-03-02"
+      },
+      "image": "r_131.jpg"
+    },
+    {
+      "id": "r_132",
+      "text": "# I’m bored  ### when you get married will your wife have a giant minnie mouse head? # This brightened up my day… thank you dead-mow-five",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 2, 2016",
+        "url": "https://twitter.com/kanyewest/status/705099806834823168",
+        "archiveUrl": "https://web.archive.org/web/20160505072046/https://twitter.com/kanyewest/status/705099806834823168",
+        "date": "2016-03-02"
+      },
+      "image": "r_132.jpg"
+    },
+    {
+      "id": "r_133",
+      "text": "I want people to be the best version of themselves and I will be the best version of me.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 7, 2016",
+        "url": "https://twitter.com/kanyewest/status/706896340425568258",
+        "archiveUrl": "https://web.archive.org/web/20161121101452/https://twitter.com/kanyewest/status/706896340425568258",
+        "date": "2016-03-07"
+      },
+      "image": "r_133.jpg"
+    },
+    {
+      "id": "r_134",
+      "text": "I like T-shirts and women in yoga pants… I live in LA that’s what people wear… not sure why someone would put a suit jacket on with that.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707709451298611200",
+        "archiveUrl": "https://web.archive.org/web/20160812224351/https://twitter.com/kanyewest/status/707709451298611200",
+        "date": "2016-03-09"
+      },
+      "image": "r_134.jpg"
+    },
+    {
+      "id": "r_135",
+      "text": "sometimes the quiet moments feel like I’m home from battle…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707370922064396288",
+        "archiveUrl": "https://web.archive.org/web/20170109204007/https://twitter.com/kanyewest/status/707370922064396288",
+        "date": "2016-03-09"
+      },
+      "image": "r_135.jpg"
+    },
+    {
+      "id": "r_136",
+      "text": "I guess in a media world where you never hear the truth, the truth can come off as crazy…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707372614407340033",
+        "archiveUrl": "https://web.archive.org/web/20170109204025/https://twitter.com/kanyewest/status/707372614407340033",
+        "date": "2016-03-09"
+      },
+      "image": "r_136.jpg"
+    },
+    {
+      "id": "r_137",
+      "text": "Super inspired by my visit to Ikea today , really amazing company… my mind is racing with the possibilities…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707365972194283520",
+        "archiveUrl": "https://web.archive.org/web/20160525221023/https://twitter.com/kanyewest/status/707365972194283520",
+        "date": "2016-03-09"
+      },
+      "image": "r_137.jpg"
+    },
+    {
+      "id": "r_138",
+      "text": "bear with me guys, Rome wasn’t built in a day but I promise to keep my promises…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707368315367366659",
+        "archiveUrl": "https://web.archive.org/web/20161001051001/https://twitter.com/kanyewest/status/707368315367366659",
+        "date": "2016-03-09"
+      },
+      "image": "r_138.jpg"
+    },
+    {
+      "id": "r_139",
+      "text": "I don’t personally like suit jackets anymore.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707705291056541697",
+        "archiveUrl": "https://web.archive.org/web/20160525221035/https://twitter.com/kanyewest/status/707705291056541697",
+        "date": "2016-03-09"
+      },
+      "image": "r_139.jpg"
+    },
+    {
+      "id": "r_140",
+      "text": "the thinkers win…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707374347854417920",
+        "archiveUrl": "https://web.archive.org/web/20161001051034/https://twitter.com/kanyewest/status/707374347854417920",
+        "date": "2016-03-09"
+      },
+      "image": "r_140.jpg"
+    },
+    {
+      "id": "r_141",
+      "text": "Together we stand… we win…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707373780692242433",
+        "archiveUrl": "https://web.archive.org/web/20160525221028/https://twitter.com/kanyewest/status/707373780692242433",
+        "date": "2016-03-09"
+      },
+      "image": "r_141.jpg"
+    },
+    {
+      "id": "r_142",
+      "text": "the future thinkers win…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707373911214833664",
+        "archiveUrl": "https://web.archive.org/web/20170109204045/https://twitter.com/kanyewest/status/707373911214833664",
+        "date": "2016-03-09"
+      },
+      "image": "r_142.jpg"
+    },
+    {
+      "id": "r_143",
+      "text": "If you wouldn’t invite me to your house then don’t invite me to your show.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 9, 2016",
+        "url": "https://twitter.com/kanyewest/status/707710313932713985",
+        "archiveUrl": "https://web.archive.org/web/20160525221046/https://twitter.com/kanyewest/status/707710313932713985",
+        "date": "2016-03-09"
+      },
+      "image": "r_143.jpg"
+    },
+    {
+      "id": "r_144",
+      "text": "My tweets are a form of contemporary art only compromised by people trying to tell me what to tweet and not to tweet...",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 14, 2016",
+        "url": "https://twitter.com/kanyewest/status/709409643387297792",
+        "archiveUrl": "https://web.archive.org/web/20160620024125/https://twitter.com/kanyewest/status/709409643387297792",
+        "date": "2016-03-14"
+      },
+      "image": "r_144.jpg"
+    },
+    {
+      "id": "r_145",
+      "text": "no one can ask me or try to tell me what to Instagram... It's my art...",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 14, 2016",
+        "url": "https://twitter.com/kanyewest/status/709408940908486657",
+        "archiveUrl": "https://web.archive.org/web/20160323193345/https://twitter.com/kanyewest/status/709408940908486657",
+        "date": "2016-03-14"
+      },
+      "image": "r_145.jpg"
+    },
+    {
+      "id": "r_146",
+      "text": "I speak yell scream directly at the old guard on behalf of the future.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 22, 2016",
+        "url": "https://twitter.com/kanyewest/status/712423834293559297",
+        "archiveUrl": "https://web.archive.org/web/20170109204319/https://twitter.com/kanyewest/status/712423834293559297",
+        "date": "2016-03-22"
+      },
+      "image": "r_146.jpg"
+    },
+    {
+      "id": "r_147",
+      "text": "We will breathe clean air and exercise the first amendment.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 22, 2016",
+        "url": "https://twitter.com/kanyewest/status/712420933445750784",
+        "archiveUrl": "https://web.archive.org/web/20161001051108/https://twitter.com/kanyewest/status/712420933445750784",
+        "date": "2016-03-22"
+      },
+      "image": "r_147.jpg"
+    },
+    {
+      "id": "r_148",
+      "text": "On another note, I strongly dislike suit jackets. I used the word dislike because I hate the word hate.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 23, 2016",
+        "url": "https://twitter.com/kanyewest/status/712430696426565632",
+        "archiveUrl": "https://web.archive.org/web/20160325072918/https://twitter.com/kanyewest/status/712430696426565632",
+        "date": "2016-03-23"
+      },
+      "image": "r_148.jpg"
+    },
+    {
+      "id": "r_149",
+      "text": "What if Kanye made a song about Kanye",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, March 31, 2016",
+        "url": "https://twitter.com/kanyewest/status/715370280542203904",
+        "archiveUrl": "https://web.archive.org/web/20160415030044/https://twitter.com/kanyewest/status/715370280542203904",
+        "date": "2016-03-31"
+      },
+      "image": "r_149.jpg"
+    },
+    {
+      "id": "r_150",
+      "text": "As a creative your ideas are your strongest form of currency",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 17, 2018",
+        "url": "https://twitter.com/kanyewest/status/986302131106975749",
+        "archiveUrl": "https://web.archive.org/web/20180420214512/https://twitter.com/kanyewest/status/986302131106975749",
+        "date": "2018-04-17"
+      },
+      "image": "r_150.jpg"
+    },
+    {
+      "id": "r_151",
+      "text": "Cars have four wheels. Hoodies have hoods. It's amusing to me when some one says this is an original hoodie. Bro... it's a hoodie 🤷‍♂️",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 18, 2018",
+        "url": "https://twitter.com/kanyewest/status/986641122381344768",
+        "archiveUrl": "https://web.archive.org/web/20180420200547/https://twitter.com/kanyewest/status/986641122381344768",
+        "date": "2018-04-18"
+      },
+      "image": "r_151.jpg"
+    },
+    {
+      "id": "r_152",
+      "text": "if you wanna see the true character of person watch the way they treat someone who can't do anything for them.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 19, 2018",
+        "url": "https://twitter.com/kanyewest/status/986759302311395328",
+        "archiveUrl": "https://web.archive.org/web/20180421002901/https://twitter.com/kanyewest/status/986759302311395328",
+        "date": "2018-04-19"
+      },
+      "image": "r_152.jpg"
+    },
+    {
+      "id": "r_153",
+      "text": "we're all servants",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 19, 2018",
+        "url": "https://twitter.com/kanyewest/status/986979473496002560",
+        "archiveUrl": "https://web.archive.org/web/20200705000401/https://twitter.com/kanyewest/status/986979473496002560",
+        "date": "2018-04-19"
+      },
+      "image": "r_153.jpg"
+    },
+    {
+      "id": "r_154",
+      "text": "it's not where you take things from.  It's where you take them to",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 19, 2018",
+        "url": "https://twitter.com/kanyewest/status/987018557660717056",
+        "archiveUrl": "https://web.archive.org/web/20180601203428/https://twitter.com/kanyewest/status/987018557660717056",
+        "date": "2018-04-19"
+      },
+      "image": "r_154.jpg"
+    },
+    {
+      "id": "r_155",
+      "text": "The more people contribute to real time global consciousness the faster we evolve",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 21, 2018",
+        "url": "https://twitter.com/kanyewest/status/987737044263682050",
+        "archiveUrl": "https://web.archive.org/web/20190611005722/https://twitter.com/kanyewest/status/987737044263682050",
+        "date": "2018-04-21"
+      },
+      "image": "r_155.jpg"
+    },
+    {
+      "id": "r_156",
+      "text": "People demonize people and then they demonize anybody who sees anything positive in someone whose been demonized",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 22, 2018",
+        "url": "https://twitter.com/kanyewest/status/988122682766970880",
+        "archiveUrl": "https://web.archive.org/web/20180422185945/https://twitter.com/kanyewest/status/988122682766970880",
+        "date": "2018-04-22"
+      },
+      "image": "r_156.jpg"
+    },
+    {
+      "id": "r_157",
+      "text": "life is more exciting than the movies",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 23, 2018",
+        "url": "https://twitter.com/kanyewest/status/988463014423609345",
+        "archiveUrl": "https://web.archive.org/web/20200704161026/https://twitter.com/kanyewest/status/988463014423609345",
+        "date": "2018-04-23"
+      },
+      "image": "r_157.jpg"
+    },
+    {
+      "id": "r_158",
+      "text": "to be great is to be misunderstood",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 24, 2018",
+        "url": "https://twitter.com/kanyewest/status/988798056798670851",
+        "archiveUrl": "https://web.archive.org/web/20200704144539/https://twitter.com/kanyewest/status/988798056798670851",
+        "date": "2018-04-24"
+      },
+      "image": "r_158.jpg"
+    },
+    {
+      "id": "r_159",
+      "text": "I’ve always had a desire to do things people wouldn’t even think to do",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 24, 2018",
+        "url": "https://twitter.com/kanyewest/status/988571191651713024",
+        "archiveUrl": "https://web.archive.org/web/20180604123830/https://twitter.com/kanyewest/status/988571191651713024",
+        "date": "2018-04-24"
+      },
+      "image": "r_159.jpg"
+    },
+    {
+      "id": "r_160",
+      "text": "If your foresight is incredible   Stay stubborn to your vision",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 24, 2018",
+        "url": "https://twitter.com/kanyewest/status/988572877539569665",
+        "archiveUrl": "https://web.archive.org/web/20200610044429/https://twitter.com/kanyewest/status/988572877539569665",
+        "date": "2018-04-24"
+      },
+      "image": "r_160.jpg"
+    },
+    {
+      "id": "r_161",
+      "text": "you can say anything as long as you put the right emoji next to it.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 24, 2018",
+        "url": "https://twitter.com/kanyewest/status/988648873999548416",
+        "archiveUrl": "https://web.archive.org/web/20200209012406/https://twitter.com/kanyewest/status/988648873999548416",
+        "date": "2018-04-24"
+      },
+      "image": "r_161.jpg"
+    },
+    {
+      "id": "r_162",
+      "text": "I'm nobody's \"client\"",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989142351321874432",
+        "archiveUrl": "https://web.archive.org/web/20180426024201/https://twitter.com/kanyewest/status/989142351321874432",
+        "date": "2018-04-25"
+      },
+      "image": "r_162.jpg"
+    },
+    {
+      "id": "r_163",
+      "text": "I'd like to meet with Tim Cook. I got some ideas",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989244800409862144",
+        "archiveUrl": "https://web.archive.org/web/20180427035602/https://twitter.com/kanyewest/status/989244800409862144",
+        "date": "2018-04-25"
+      },
+      "image": "r_163.jpg"
+    },
+    {
+      "id": "r_164",
+      "text": "I'm turn the Grammys into the Yammys",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989171941998149637",
+        "archiveUrl": "https://web.archive.org/web/20180425174510/https://twitter.com/kanyewest/status/989171941998149637",
+        "date": "2018-04-25"
+      },
+      "image": "r_164.jpg"
+    },
+    {
+      "id": "r_165",
+      "text": "when we become president we have to change the name of the plane from Air Force one to Yeezy force one ☝️",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989162018664935424",
+        "archiveUrl": "https://web.archive.org/web/20181215165234/https://twitter.com/kanyewest/status/989162018664935424",
+        "date": "2018-04-25"
+      },
+      "image": "r_165.jpg"
+    },
+    {
+      "id": "r_166",
+      "text": "I leave my emojis bart Simpson color",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989165838803517440",
+        "archiveUrl": "https://web.archive.org/web/20180426024140/https://twitter.com/kanyewest/status/989165838803517440",
+        "date": "2018-04-25"
+      },
+      "image": "r_166.jpg"
+    },
+    {
+      "id": "r_167",
+      "text": "spread love",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/988989883849961472",
+        "archiveUrl": "https://web.archive.org/web/20210613211050/https://twitter.com/kanyewest/status/988989883849961472",
+        "date": "2018-04-25"
+      },
+      "image": "r_167.jpg"
+    },
+    {
+      "id": "r_168",
+      "text": "with love I am invincible. Truth is subjective but love is the most powerful force in the world and the world needs to express more of it.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989181401223249921",
+        "archiveUrl": "https://web.archive.org/web/20191013110802/https://twitter.com/kanyewest/status/989181401223249921",
+        "date": "2018-04-25"
+      },
+      "image": "r_168.jpg"
+    },
+    {
+      "id": "r_169",
+      "text": "Love is the most powerful force in the universe",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989268601851920384",
+        "archiveUrl": "https://web.archive.org/web/20190909164202/https://twitter.com/kanyewest/status/989268601851920384",
+        "date": "2018-04-25"
+      },
+      "image": "r_169.jpg"
+    },
+    {
+      "id": "r_170",
+      "text": "Obama was in office for eight years and nothing in Chicago changed.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989272340432240641",
+        "archiveUrl": "https://web.archive.org/web/20180426002018/https://twitter.com/kanyewest/status/989272340432240641",
+        "date": "2018-04-25"
+      },
+      "image": "r_170.jpg"
+    },
+    {
+      "id": "r_171",
+      "text": "let's move in love not fear",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 25, 2018",
+        "url": "https://twitter.com/kanyewest/status/989268464392011776",
+        "archiveUrl": "https://web.archive.org/web/20180508194158/https://twitter.com/kanyewest/status/989268464392011776",
+        "date": "2018-04-25"
+      },
+      "image": "r_171.jpg"
+    },
+    {
+      "id": "r_172",
+      "text": "The world is our family",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "url": "https://twitter.com/kanyewest/status/989526297758978048",
+        "archiveUrl": "https://web.archive.org/web/20200703194609/https://twitter.com/kanyewest/status/989526297758978048",
+        "date": "2018-04-26"
+      },
+      "image": "r_172.jpg"
+    },
+    {
+      "id": "r_173",
+      "text": "if you feel something don't let peer pressure manipulate you",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "url": "https://twitter.com/kanyewest/status/989549960436699136",
+        "archiveUrl": "https://web.archive.org/web/20180426201512/https://twitter.com/kanyewest/status/989549960436699136",
+        "date": "2018-04-26"
+      },
+      "image": "r_173.jpg"
+    },
+    {
+      "id": "r_174",
+      "text": "People usually don't agree with people who don't agree with them",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "url": "https://twitter.com/kanyewest/status/989533251059437569",
+        "archiveUrl": "https://web.archive.org/web/20180426160147/https://twitter.com/kanyewest/status/989533251059437569",
+        "date": "2018-04-26"
+      },
+      "image": "r_174.jpg"
+    },
+    {
+      "id": "r_175",
+      "text": "Instead of doing what you feel \nyou just do what other people think you should do",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "url": "https://twitter.com/kanyewest/status/989562129496731648",
+        "archiveUrl": "https://web.archive.org/web/20180820211828/https://twitter.com/kanyewest/status/989562129496731648",
+        "date": "2018-04-26"
+      },
+      "image": "r_175.jpg"
+    },
+    {
+      "id": "r_176",
+      "text": "just think of someone you hate and try saying even to yourself that you love that person.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "url": "https://twitter.com/kanyewest/status/989525041669787649",
+        "archiveUrl": "https://web.archive.org/web/20200703194607/https://twitter.com/kanyewest/status/989525041669787649",
+        "date": "2018-04-26"
+      },
+      "image": "r_176.jpg"
+    },
+    {
+      "id": "r_177",
+      "text": "the concept of loving people has a stigma",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 26, 2018",
+        "url": "https://twitter.com/kanyewest/status/989555920186228736",
+        "archiveUrl": "https://web.archive.org/web/20200703194216/https://twitter.com/kanyewest/status/989555920186228736",
+        "date": "2018-04-26"
+      },
+      "image": "r_177.jpg"
+    },
+    {
+      "id": "r_178",
+      "text": "Lead with love",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 28, 2018",
+        "url": "https://twitter.com/kanyewest/status/990094756985253888",
+        "archiveUrl": "https://web.archive.org/web/20180428132839/https://twitter.com/kanyewest/status/990094756985253888",
+        "date": "2018-04-28"
+      }
+    },
+    {
+      "id": "r_179",
+      "text": "lift yourself",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, April 28, 2018",
+        "url": "https://twitter.com/kanyewest/status/990303291706785792",
+        "archiveUrl": "https://web.archive.org/web/20180428192611/https://twitter.com/kanyewest/status/990303291706785792",
+        "date": "2018-04-28"
+      }
+    },
+    {
+      "id": "r_180",
+      "text": "They cut out our tongues so we couldn't communicate to each other.  I will not allow my tongue to be cut",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 1, 2018",
+        "url": "https://twitter.com/kanyewest/status/991460307208847360",
+        "archiveUrl": "https://web.archive.org/web/20180501233716/https://twitter.com/kanyewest/status/991460307208847360",
+        "date": "2018-05-01"
+      },
+      "image": "r_180.jpg"
+    },
+    {
+      "id": "r_181",
+      "text": "most fear is learned",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 2, 2018",
+        "url": "https://twitter.com/kanyewest/status/991561089291702274",
+        "archiveUrl": "https://web.archive.org/web/20200703085749/https://twitter.com/kanyewest/status/991561089291702274",
+        "date": "2018-05-02"
+      },
+      "image": "r_181.jpg"
+    },
+    {
+      "id": "r_182",
+      "text": "enjoy the present",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 4, 2018",
+        "url": "https://twitter.com/kanyewest/status/992476928346017792",
+        "archiveUrl": "https://web.archive.org/web/20180504215745/https://twitter.com/kanyewest/status/992476928346017792",
+        "date": "2018-05-04"
+      },
+      "image": "r_182.jpg"
+    },
+    {
+      "id": "r_183",
+      "text": "naps are awesome",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 6, 2018",
+        "url": "https://twitter.com/kanyewest/status/993212368225124353",
+        "archiveUrl": "https://web.archive.org/web/20180506234753/https://twitter.com/kanyewest/status/993212368225124353",
+        "date": "2018-05-06"
+      },
+      "image": "r_183.jpg"
+    },
+    {
+      "id": "r_184",
+      "text": "All music coming out of Yeezy sound has to ride like the new Tesla   Yeezy sound is Tesla radio",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 6, 2018",
+        "url": "https://twitter.com/kanyewest/status/992962234102857728",
+        "archiveUrl": "https://web.archive.org/web/20210623141659/https://twitter.com/kanyewest/status/992962234102857728",
+        "date": "2018-05-06"
+      },
+      "image": "r_184.jpg"
+    },
+    {
+      "id": "r_185",
+      "text": "I’m hyper focused on the now",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 7, 2018",
+        "url": "https://twitter.com/kanyewest/status/993562911560761344",
+        "archiveUrl": "https://web.archive.org/web/20180720112331/https://twitter.com/kanyewest/status/993562911560761344",
+        "date": "2018-05-07"
+      },
+      "image": "r_185.jpg"
+    },
+    {
+      "id": "r_186",
+      "text": "there was a time when we completely operated without phones.  We're addicted to our phones.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, May 21, 2018",
+        "url": "https://twitter.com/kanyewest/status/998641541395636226",
+        "archiveUrl": "https://web.archive.org/web/20180521212031/https://twitter.com/kanyewest/status/998641541395636226",
+        "date": "2018-05-21"
+      },
+      "image": "r_186.jpg"
+    },
+    {
+      "id": "r_187",
+      "text": "We’re trying new ideas without the fear of not being perfect…  It’s just a gut feeling sometimes… just making stuff with your friends…",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 11, 2018",
+        "url": "https://twitter.com/kanyewest/status/1006240112651337728",
+        "archiveUrl": "https://web.archive.org/web/20180612061357/https://twitter.com/kanyewest/status/1006240112651337728",
+        "date": "2018-06-11"
+      },
+      "image": "r_187.jpg"
+    },
+    {
+      "id": "r_188",
+      "text": "I be taking naps",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 12, 2018",
+        "url": "https://twitter.com/kanyewest/status/1006680756779798528",
+        "archiveUrl": "https://web.archive.org/web/20180613001206/https://twitter.com/kanyewest/status/1006680756779798528",
+        "date": "2018-06-12"
+      },
+      "image": "r_188.jpg"
+    },
+    {
+      "id": "r_189",
+      "text": "Leaders create leaders",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 13, 2018",
+        "url": "https://twitter.com/kanyewest/status/1006959393965948928",
+        "archiveUrl": "https://web.archive.org/web/20180626095947/https://twitter.com/kanyewest/status/1006959393965948928",
+        "date": "2018-06-13"
+      },
+      "image": "r_189.jpg"
+    },
+    {
+      "id": "r_190",
+      "text": "sometimes I have trouble saying no because I want to help everyone",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1007242346763698176",
+        "archiveUrl": "https://web.archive.org/web/20180614171044/https://twitter.com/kanyewest/status/1007242346763698176",
+        "date": "2018-06-14"
+      },
+      "image": "r_190.jpg"
+    },
+    {
+      "id": "r_191",
+      "text": "I killed my ego",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1007239893481766912",
+        "archiveUrl": "https://web.archive.org/web/20180615041609/https://twitter.com/kanyewest/status/1007239893481766912",
+        "date": "2018-06-14"
+      },
+      "image": "r_191.jpg"
+    },
+    {
+      "id": "r_192",
+      "text": "be great without pride",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1007239618041765889",
+        "archiveUrl": "https://web.archive.org/web/20200211072631/https://twitter.com/kanyewest/status/1007239618041765889",
+        "date": "2018-06-14"
+      },
+      "image": "r_192.jpg"
+    },
+    {
+      "id": "r_193",
+      "text": "your pride can be and will be used against you",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1007239693291773952",
+        "archiveUrl": "https://web.archive.org/web/20220216191331/https://twitter.com/kanyewest/status/1007239693291773952",
+        "date": "2018-06-14"
+      },
+      "image": "r_193.jpg"
+    },
+    {
+      "id": "r_194",
+      "text": "Who or what is Kanye West with no ego? Just Ye",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1007240200727089153",
+        "archiveUrl": "https://web.archive.org/web/20200211222600/https://twitter.com/kanyewest/status/1007240200727089153",
+        "date": "2018-06-14"
+      },
+      "image": "r_194.jpg"
+    },
+    {
+      "id": "r_195",
+      "text": "give without pride",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1007239543408357377",
+        "archiveUrl": "https://web.archive.org/web/20210406200233/https://twitter.com/kanyewest/status/1007239543408357377",
+        "date": "2018-06-14"
+      },
+      "image": "r_195.jpg"
+    },
+    {
+      "id": "r_196",
+      "text": "the universe is on our side bro",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, June 22, 2018",
+        "url": "https://twitter.com/kanyewest/status/1010015133785939969",
+        "archiveUrl": "https://web.archive.org/web/20200629033330/https://twitter.com/kanyewest/status/1010015133785939969",
+        "date": "2018-06-22"
+      },
+      "image": "r_196.jpg"
+    },
+    {
+      "id": "r_197",
+      "text": "Chasing validation is like putting your soul in a plank position",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 8, 2018",
+        "url": "https://twitter.com/kanyewest/status/1015818124698910721",
+        "archiveUrl": "https://web.archive.org/web/20200111132053/https://twitter.com/kanyewest/status/1015818124698910721",
+        "date": "2018-07-08"
+      },
+      "image": "r_197.jpg"
+    },
+    {
+      "id": "r_198",
+      "text": "wholesale is dangerous for creatives",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 12, 2018",
+        "url": "https://twitter.com/kanyewest/status/1017492030761549824",
+        "archiveUrl": "https://web.archive.org/web/20181023190949/https://twitter.com/kanyewest/status/1017492030761549824",
+        "date": "2018-07-12"
+      },
+      "image": "r_198.jpg"
+    },
+    {
+      "id": "r_199",
+      "text": "Yeezy is an organization ran by the creative. The creative make the final decisions here.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 12, 2018",
+        "url": "https://twitter.com/kanyewest/status/1017477742260961280",
+        "archiveUrl": "https://web.archive.org/web/20210727030553/https://twitter.com/kanyewest/status/1017477742260961280",
+        "date": "2018-07-12"
+      },
+      "image": "r_199.jpg"
+    },
+    {
+      "id": "r_200",
+      "text": "creatives need each other",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1018176769843593216",
+        "archiveUrl": "https://web.archive.org/web/20200208110433/https://twitter.com/kanyewest/status/1018176769843593216",
+        "date": "2018-07-14"
+      },
+      "image": "r_200.jpg"
+    },
+    {
+      "id": "r_201",
+      "text": "I had a sinus headache on a flight once and I got a fucking cat scan after because it was so bad",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1018257129457606656",
+        "archiveUrl": "https://web.archive.org/web/20200519012601/https://twitter.com/kanyewest/status/1018257129457606656",
+        "date": "2018-07-14"
+      },
+      "image": "r_201.jpg"
+    },
+    {
+      "id": "r_202",
+      "text": "How to NOT kill yourself pt 1\n\nAvoid being around people who make you want to kill yourself",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 27, 2018",
+        "url": "https://twitter.com/kanyewest/status/1022952843563556864",
+        "archiveUrl": "https://web.archive.org/web/20180727213115/https://twitter.com/kanyewest/status/1022952843563556864",
+        "date": "2018-07-27"
+      },
+      "image": "r_202.jpg"
+    },
+    {
+      "id": "r_203",
+      "text": "we’re no longer fighting for change we’re simply changing things",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, August 13, 2018",
+        "url": "https://twitter.com/kanyewest/status/1029102535389237250",
+        "archiveUrl": "https://web.archive.org/web/20180814154627/https://twitter.com/kanyewest/status/1029102535389237250",
+        "date": "2018-08-13"
+      },
+      "image": "r_203.jpg"
+    },
+    {
+      "id": "r_204",
+      "text": "spend as much time outside as possible     fresh air is healing",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, August 21, 2018",
+        "url": "https://twitter.com/kanyewest/status/1032007965706874880",
+        "archiveUrl": "https://web.archive.org/web/20180823072837/https://twitter.com/kanyewest/status/1032007965706874880",
+        "date": "2018-08-21"
+      },
+      "image": "r_204.jpg"
+    },
+    {
+      "id": "r_205",
+      "text": "Halloween is the only day you’re not in a costume",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, August 27, 2018",
+        "url": "https://twitter.com/kanyewest/status/1034108182090534914",
+        "archiveUrl": "https://web.archive.org/web/20200111131441/https://twitter.com/kanyewest/status/1034108182090534914",
+        "date": "2018-08-27"
+      },
+      "image": "r_205.jpg"
+    },
+    {
+      "id": "r_206",
+      "text": "there’s no such thing as an old living person    people from thousands of years ago perhaps are old      if you’re alive you’re young",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, August 27, 2018",
+        "url": "https://twitter.com/kanyewest/status/1034115344233709568",
+        "archiveUrl": "https://web.archive.org/web/20210115004323/https://twitter.com/kanyewest/status/1034115344233709568",
+        "date": "2018-08-27"
+      },
+      "image": "r_206.jpg"
+    },
+    {
+      "id": "r_207",
+      "text": "Katsuhiro Otomo the creator of Akira      This movie is my biggest  creative inspiration",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, August 27, 2018",
+        "url": "https://twitter.com/kanyewest/status/1034101919340347392",
+        "archiveUrl": "https://web.archive.org/web/20180827164634/https://twitter.com/kanyewest/status/1034101919340347392",
+        "date": "2018-08-27"
+      },
+      "image": "r_207.jpg"
+    },
+    {
+      "id": "r_208",
+      "text": "let’s make ourselves happy",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, August 28, 2018",
+        "url": "https://twitter.com/kanyewest/status/1034501234755915776",
+        "archiveUrl": "https://web.archive.org/web/20180829053715/https://twitter.com/kanyewest/status/1034501234755915776",
+        "date": "2018-08-28"
+      },
+      "image": "r_208.jpg"
+    },
+    {
+      "id": "r_209",
+      "text": "We are Gods",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 8, 2018",
+        "url": "https://twitter.com/kanyewest/status/1038398647375810560",
+        "archiveUrl": "https://web.archive.org/web/20210115002715/https://twitter.com/kanyewest/status/1038398647375810560",
+        "date": "2018-09-08"
+      },
+      "image": "r_209.jpg"
+    },
+    {
+      "id": "r_210",
+      "text": "we need to be overwhelmed with love and inspiration",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 10, 2018",
+        "url": "https://twitter.com/kanyewest/status/1038990702028308480",
+        "archiveUrl": "https://web.archive.org/web/20200209074624/https://twitter.com/kanyewest/status/1038990702028308480",
+        "date": "2018-09-10"
+      },
+      "image": "r_210.jpg"
+    },
+    {
+      "id": "r_211",
+      "text": "when you think of something positive say it out loud. Keep putting that vibe into the universe.",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 13, 2018",
+        "url": "https://twitter.com/kanyewest/status/1040347073403596801",
+        "archiveUrl": "https://web.archive.org/web/20200210025804/https://twitter.com/kanyewest/status/1040347073403596801",
+        "date": "2018-09-13"
+      },
+      "image": "r_211.jpg"
+    },
+    {
+      "id": "r_212",
+      "text": "we don’t need to ever be excited we need to just be",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 17, 2018",
+        "url": "https://twitter.com/kanyewest/status/1041741691152064512",
+        "archiveUrl": "https://web.archive.org/web/20200211004024/https://twitter.com/kanyewest/status/1041741691152064512",
+        "date": "2018-09-17"
+      },
+      "image": "r_212.jpg"
+    },
+    {
+      "id": "r_213",
+      "text": "we are divine",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 17, 2018",
+        "url": "https://twitter.com/kanyewest/status/1041730174167920641",
+        "archiveUrl": "https://web.archive.org/web/20200127141600/https://twitter.com/kanyewest/status/1041730174167920641",
+        "date": "2018-09-17"
+      },
+      "image": "r_213.jpg"
+    },
+    {
+      "id": "r_214",
+      "text": "love is the absence of pride",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 17, 2018",
+        "url": "https://twitter.com/kanyewest/status/1041706314580221953",
+        "archiveUrl": "https://web.archive.org/web/20180928203918/https://twitter.com/kanyewest/status/1041706314580221953",
+        "date": "2018-09-17"
+      },
+      "image": "r_214.jpg"
+    },
+    {
+      "id": "r_215",
+      "text": "the term followers should be changed to observers. We need to follow our spirit",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 24, 2018",
+        "url": "https://twitter.com/kanyewest/status/1044263766609674240",
+        "archiveUrl": "https://web.archive.org/web/20200208070640/https://twitter.com/kanyewest/status/1044263766609674240",
+        "date": "2018-09-24"
+      },
+      "image": "r_215.jpg"
+    },
+    {
+      "id": "r_216",
+      "text": "namaste means the divine in me sees the divine in you.   Namaste - the divine is us",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 24, 2018",
+        "url": "https://twitter.com/kanyewest/status/1044266964623876103",
+        "archiveUrl": "https://web.archive.org/web/20210925084545/https://twitter.com/kanyewest/status/1044266964623876103",
+        "date": "2018-09-24"
+      },
+      "image": "r_216.jpg"
+    },
+    {
+      "id": "r_217",
+      "text": "the being formally known as Kanye West   \n\nI am YE",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 29, 2018",
+        "url": "https://twitter.com/kanyewest/status/1046064289944080388",
+        "archiveUrl": "https://web.archive.org/web/20181001014517/https://twitter.com/kanyewest/status/1046064289944080388",
+        "date": "2018-09-29"
+      },
+      "image": "r_217.jpg"
+    },
+    {
+      "id": "r_218",
+      "text": "We believe in love    We don’t just try we do.. we are... We are love",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, November 18, 2018",
+        "url": "https://twitter.com/kanyewest/status/1064230822952099841",
+        "archiveUrl": "https://web.archive.org/web/20210523204243/https://twitter.com/kanyewest/status/1064230822952099841",
+        "date": "2018-11-18"
+      },
+      "image": "r_218.jpg"
+    },
+    {
+      "id": "r_219",
+      "text": "Landscaping is a conversation with God",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 11, 2018",
+        "url": "https://twitter.com/kanyewest/status/1072508998635712513",
+        "archiveUrl": "https://web.archive.org/web/20200519150912/https://twitter.com/kanyewest/status/1072508998635712513",
+        "date": "2018-12-11"
+      },
+      "image": "r_219.jpg"
+    },
+    {
+      "id": "r_220",
+      "text": "I’m Ye bro    Remember that   I love you   I would never intentionally hurt you     That’s what I’ve been saying to you",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1073419555198902272",
+        "archiveUrl": "https://web.archive.org/web/20200115211239/https://twitter.com/kanyewest/status/1073419555198902272",
+        "date": "2018-12-14"
+      },
+      "image": "r_220.jpg"
+    },
+    {
+      "id": "r_221",
+      "text": "I love everybody all positive energy    No one that is a musician should ever diss me     My existence is for the rights of all artist",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 14, 2018",
+        "url": "https://twitter.com/kanyewest/status/1073454487816290304",
+        "archiveUrl": "https://web.archive.org/web/20210901152736/https://twitter.com/kanyewest/status/1073454487816290304",
+        "date": "2018-12-14"
+      },
+      "image": "r_221.jpg"
+    },
+    {
+      "id": "r_222",
+      "text": "We as a society are taking control of our consciousness and raising it together",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 15, 2018",
+        "url": "https://twitter.com/kanyewest/status/1073924911922442240",
+        "archiveUrl": "https://web.archive.org/web/20210712200614/https://twitter.com/kanyewest/status/1073924911922442240",
+        "date": "2018-12-15"
+      },
+      "image": "r_222.jpg"
+    },
+    {
+      "id": "r_223",
+      "text": "Perhaps we stop looking at my tweets as rants and start looking at them as therapy testimonials and some even ministry",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, December 15, 2018",
+        "url": "https://twitter.com/kanyewest/status/1073927363287605248",
+        "archiveUrl": "https://web.archive.org/web/20190226021715/https://twitter.com/kanyewest/status/1073927363287605248",
+        "date": "2018-12-15"
+      },
+      "image": "r_223.jpg"
+    },
+    {
+      "id": "r_224",
+      "text": "Everybody knows the movie get out is about me",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 3,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, July 21, 2020",
+        "url": "https://twitter.com/kanyewest/status/1285395145098096640",
+        "archiveUrl": "https://web.archive.org/web/20200721035449/https://twitter.com/kanyewest/status/1285395145098096640",
+        "date": "2020-07-21"
+      },
+      "image": "r_224.jpg"
+    },
+    {
+      "id": "r_225",
+      "text": "I KNOW MY LORD AND SAVIOR JESUS CHRIST WILL MAKE FOOLS OF AND PUNISH ALL WHO HAVE PARTICIPATED IN UNFAIR CONTRACTS",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 16, 2020",
+        "url": "https://twitter.com/kanyewest/status/1306224224311283714",
+        "archiveUrl": "https://web.archive.org/web/20200916133311/https://twitter.com/kanyewest/status/1306224224311283714",
+        "date": "2020-09-16"
+      },
+      "image": "r_225.jpg"
+    },
+    {
+      "id": "r_226",
+      "text": "I don’t wanna see no woke tweets or hear no woke raps ... it’s show time ... it’s a whole different energy right now",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 1,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 16, 2020",
+        "url": "https://twitter.com/kanyewest/status/1306046385712558081",
+        "archiveUrl": "https://web.archive.org/web/20200916205137/https://twitter.com/kanyewest/status/1306046385712558081",
+        "date": "2020-09-16"
+      },
+      "image": "r_226.jpg"
+    },
+    {
+      "id": "r_227",
+      "text": "Ya’ll not gonna play with me or none of my people ever again ... in Jesus name ... I want all the smoke pleeeeeeeease 🙏🏾🙏🏾🙏🏾🙏🏾",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 16, 2020",
+        "url": "https://twitter.com/kanyewest/status/1306033395726606337",
+        "archiveUrl": "https://web.archive.org/web/20200916005346/https://twitter.com/kanyewest/status/1306033395726606337",
+        "date": "2020-09-16"
+      },
+      "image": "r_227.jpg"
+    },
+    {
+      "id": "r_228",
+      "text": "My mama was a’ English teacher     I know how to use correct English    But Sometimes I just don’t feel like it aaaand I ain’t got to ⛷",
+      "isReal": true,
+      "type": "tweet",
+      "difficulty": 2,
+      "verificationStatus": "unverified",
+      "source": {
+        "label": "Tweet by @kanyewest, September 22, 2020",
+        "url": "https://twitter.com/kanyewest/status/1308385280651452416",
+        "archiveUrl": "https://web.archive.org/web/20200922133724/https://twitter.com/kanyewest/status/1308385280651452416",
+        "date": "2020-09-22"
+      },
+      "image": "r_228.jpg"
+    },
+    {
+      "id": "r_229",
+      "text": "Why would I listen to you? You don't even ask me for any advice. I'm the most successful person I know.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1505s",
+        "date": "2020-10-24"
+      },
+      "image": "r_229.jpg"
+    },
+    {
+      "id": "r_230",
+      "text": "When I talk, it's not a rant. It's a symphony of ideas.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2941s",
+        "date": "2020-10-24"
+      },
+      "image": "r_230.jpg"
+    },
+    {
+      "id": "r_231",
+      "text": "I just tell the truth, and telling the truth is crazy in a world full of lies.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2951s",
+        "date": "2020-10-24"
+      },
+      "image": "r_231.jpg"
+    },
+    {
+      "id": "r_232",
+      "text": "Time is love. You love the things you put time into.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4028s",
+        "date": "2020-10-24"
+      },
+      "image": "r_232.jpg"
+    },
+    {
+      "id": "r_233",
+      "text": "I fear God, and I don't fear nothing else.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4342s",
+        "date": "2020-10-24"
+      },
+      "image": "r_233.jpg"
+    },
+    {
+      "id": "r_234",
+      "text": "I'm like Deadpool for God.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4440s",
+        "date": "2020-10-24"
+      },
+      "image": "r_234.jpg"
+    },
+    {
+      "id": "r_235",
+      "text": "I'm like a human version of Instagram.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5134s",
+        "date": "2020-10-24"
+      },
+      "image": "r_235.jpg"
+    },
+    {
+      "id": "r_236",
+      "text": "If someone's talking to me and I just get sleepy, I know that that's not what I should do.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5927s",
+        "date": "2020-10-24"
+      },
+      "image": "r_236.jpg"
+    },
+    {
+      "id": "r_237",
+      "text": "I like saying the word energize over the word excited.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5935s",
+        "date": "2020-10-24"
+      },
+      "image": "r_237.jpg"
+    },
+    {
+      "id": "r_239",
+      "text": "I was thinking about buying my masters and I realized that that was too small of a thought. I'm going to buy Universal.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6681s",
+        "date": "2020-10-24"
+      },
+      "image": "r_239.jpg"
+    },
+    {
+      "id": "r_240",
+      "text": "Guess who's my CFO? Who? Me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7021s",
+        "date": "2020-10-24"
+      },
+      "image": "r_240.jpg"
+    },
+    {
+      "id": "r_241",
+      "text": "At age 16, I was working at the Gap and I got fired for stealing.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7173s",
+        "date": "2020-10-24"
+      },
+      "image": "r_241.jpg"
+    },
+    {
+      "id": "r_242",
+      "text": "I didn't really have a good next thing. I wanted to sound good and, like, name leaders. I wanted to sound fire.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7834s",
+        "date": "2020-10-24"
+      },
+      "image": "r_242.jpg"
+    },
+    {
+      "id": "r_243",
+      "text": "Once I'm given the right information, I apply my taste, and I have the best taste on the planet.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8308s",
+        "date": "2020-10-24"
+      },
+      "image": "r_243.jpg"
+    },
+    {
+      "id": "r_244",
+      "text": "I really just, I quite love the sound of my own voice, as we can see, apparently.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8902s",
+        "date": "2020-10-24"
+      },
+      "image": "r_244.jpg"
+    },
+    {
+      "id": "r_245",
+      "text": "Yes, I am a genius, but one of my most genius skill sets is recognizing other geniuses and empowering them and giving them the platform.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9659s",
+        "date": "2020-10-24"
+      },
+      "image": "r_245.jpg"
+    },
+    {
+      "id": "r_247",
+      "text": "I believe that my calling is to be the leader of the free world.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=237s",
+        "date": "2020-10-24"
+      },
+      "image": "r_247.jpg"
+    },
+    {
+      "id": "r_248",
+      "text": "I'm a great leader because I listen and I'm empathetic.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=432s",
+        "date": "2020-10-24"
+      },
+      "image": "r_248.jpg"
+    },
+    {
+      "id": "r_249",
+      "text": "Music is like negative $4 million for me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=777s",
+        "date": "2020-10-24"
+      },
+      "image": "r_249.jpg"
+    },
+    {
+      "id": "r_250",
+      "text": "There's people who would prefer to go down with the Titanic than to get on a lifeboat, because they don't want to get seawater on their dress.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1084s",
+        "date": "2020-10-24"
+      },
+      "image": "r_250.jpg"
+    },
+    {
+      "id": "r_251",
+      "text": "I completely stopped rapping because I didn't know how to rap for God.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1123s",
+        "date": "2020-10-24"
+      },
+      "image": "r_251.jpg"
+    },
+    {
+      "id": "r_254",
+      "text": "I'm gonna listen to kids before I listen to, you know, super programmed-out adults.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1484s",
+        "date": "2020-10-24"
+      },
+      "image": "r_254.jpg"
+    },
+    {
+      "id": "r_255",
+      "text": "Donda is basically my version of, like, a cyber extension of my brain.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1749s",
+        "date": "2020-10-24"
+      },
+      "image": "r_255.jpg"
+    },
+    {
+      "id": "r_256",
+      "text": "I thought about even calling it EDNA, because I see us all as superheroes, and EDNA was the designer in The Incredibles.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1776s",
+        "date": "2020-10-24"
+      },
+      "image": "r_256.jpg"
+    },
+    {
+      "id": "r_257",
+      "text": "Please don't take this as any offense. I don't like solar panels.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1886s",
+        "date": "2020-10-24"
+      },
+      "image": "r_257.jpg"
+    },
+    {
+      "id": "r_258",
+      "text": "If I had known physics, I wouldn't have been screaming at my engineer.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1933s",
+        "date": "2020-10-24"
+      },
+      "image": "r_258.jpg"
+    },
+    {
+      "id": "r_259",
+      "text": "Even the devil's an angel, a fallen angel, a lost angel, like Los Angeles.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2147s",
+        "date": "2020-10-24"
+      },
+      "image": "r_259.jpg"
+    },
+    {
+      "id": "r_260",
+      "text": "I think visionary's too glossy and too saucy of a title.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2178s",
+        "date": "2020-10-24"
+      },
+      "image": "r_260.jpg"
+    },
+    {
+      "id": "r_261",
+      "text": "God knocked me off my horse.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2325s",
+        "date": "2020-10-24"
+      },
+      "image": "r_261.jpg"
+    },
+    {
+      "id": "r_262",
+      "text": "Now is the shortest moment of our life. The longest moments of our life are our memories and our imaginations.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2721s",
+        "date": "2020-10-24"
+      },
+      "image": "r_262.jpg"
+    },
+    {
+      "id": "r_263",
+      "text": "Now is the shortest moment of our life. It's gone in an instant. The longest moments of our life are our memories and our imaginations.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2915s",
+        "date": "2020-10-24"
+      },
+      "image": "r_263.jpg"
+    },
+    {
+      "id": "r_264",
+      "text": "I think very three-dimensionally. I don't think in the black and white lines that I've been programmed to think in. And I think in full color.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=3111s",
+        "date": "2020-10-24"
+      },
+      "image": "r_264.jpg"
+    },
+    {
+      "id": "r_265",
+      "text": "My thoughts are like these clouds in Mario Brothers. I'll jump to this, and I'll see another one, I'll jump to another one.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=3999s",
+        "date": "2020-10-24"
+      },
+      "image": "r_265.jpg"
+    },
+    {
+      "id": "r_266",
+      "text": "The first time you see me get mad in an interview. They said that George Lucas's prequels are worse than the corporate-made Disney Star Wars.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4492s",
+        "date": "2020-10-24"
+      },
+      "image": "r_266.jpg"
+    },
+    {
+      "id": "r_267",
+      "text": "Revenge of the Sith, we saw how Darth Vader was made. Like I watched that like 10 times during COVID.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4506s",
+        "date": "2020-10-24"
+      },
+      "image": "r_267.jpg"
+    },
+    {
+      "id": "r_268",
+      "text": "They'll get to Toy Story 800,000 or Frozen trillion before there's a new concept.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4565s",
+        "date": "2020-10-24"
+      },
+      "image": "r_268.jpg"
+    },
+    {
+      "id": "r_270",
+      "text": "When I design, I become like a three-year-old.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5061s",
+        "date": "2020-10-24"
+      },
+      "image": "r_270.jpg"
+    },
+    {
+      "id": "r_271",
+      "text": "I'm going to make this shoe be $20.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5088s",
+        "date": "2020-10-24"
+      },
+      "image": "r_271.jpg"
+    },
+    {
+      "id": "r_272",
+      "text": "Money isn't real, so that means the world should be eventually free.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5095s",
+        "date": "2020-10-24"
+      },
+      "image": "r_272.jpg"
+    },
+    {
+      "id": "r_273",
+      "text": "I'm an essentialist. I'm a minimalist.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5184s",
+        "date": "2020-10-24"
+      },
+      "image": "r_273.jpg"
+    },
+    {
+      "id": "r_275",
+      "text": "I feel like it's a practical joke on rich people, how long houses take to build.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5601s",
+        "date": "2020-10-24"
+      },
+      "image": "r_275.jpg"
+    },
+    {
+      "id": "r_276",
+      "text": "I drive my kids to school, and I stay at school with them all day.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5686s",
+        "date": "2020-10-24"
+      },
+      "image": "r_276.jpg"
+    },
+    {
+      "id": "r_278",
+      "text": "We're 20 years past the future, like it's in 2020, like we're supposed to be in the future by 2000, so it's my job to pull the future into now.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5787s",
+        "date": "2020-10-24"
+      },
+      "image": "r_278.jpg"
+    },
+    {
+      "id": "r_279",
+      "text": "I believe we're in the game. We're in, like, Grand Theft Auto.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5810s",
+        "date": "2020-10-24"
+      },
+      "image": "r_279.jpg"
+    },
+    {
+      "id": "r_280",
+      "text": "So the word help is like, it's like a, it's like a bad leg on a table. You think you could stand on it, but if you stand right there, that table could flip over.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5974s",
+        "date": "2020-10-24"
+      },
+      "image": "r_280.jpg"
+    },
+    {
+      "id": "r_281",
+      "text": "Here's the answer when you know the meeting didn't do good. It didn't go well. The person says it then, \"Oh, how can I help?\" That means they don't want to do nothing. They'll just give you a phone number.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5993s",
+        "date": "2020-10-24"
+      },
+      "image": "r_281.jpg"
+    },
+    {
+      "id": "r_282",
+      "text": "It tears me to my core that my daughter has to learn T-W-O, the difference between T-W-O, T-O-O, and T-O. I wanna just be like, just draw the number two.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6046s",
+        "date": "2020-10-24"
+      },
+      "image": "r_282.jpg"
+    },
+    {
+      "id": "r_283",
+      "text": "Sometimes I talk to reporters, it's like they're saying the thing they wanted to say to this guy in high school that they never got to complete the conversation, and they're taking it out on me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6219s",
+        "date": "2020-10-24"
+      },
+      "image": "r_283.jpg"
+    },
+    {
+      "id": "r_284",
+      "text": "The greatest disabler of our abilities, our greatest kryptonite, is doubt.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6428s",
+        "date": "2020-10-24"
+      },
+      "image": "r_284.jpg"
+    },
+    {
+      "id": "r_285",
+      "text": "I don't know if I could classify myself as liberal, but I'm definitely kind of liberal elite. I wrote My Beautiful Dark Twisted Fantasy.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6578s",
+        "date": "2020-10-24"
+      },
+      "image": "r_285.jpg"
+    },
+    {
+      "id": "r_286",
+      "text": "I was $53 million in debt, you know, four years ago. And now it's proven that I'm the new Michael Jordan of products.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6700s",
+        "date": "2020-10-24"
+      },
+      "image": "r_286.jpg"
+    },
+    {
+      "id": "r_287",
+      "text": "I always felt like I was the Steve Jobs of the Gap.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7164s",
+        "date": "2020-10-24"
+      },
+      "image": "r_287.jpg"
+    },
+    {
+      "id": "r_288",
+      "text": "I don't like to watch these interviews back until about three, four, five years later, because I'm visiting the now. I'm existing in the future and visiting the now when I'm speaking to you.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7357s",
+        "date": "2020-10-24"
+      },
+      "image": "r_288.jpg"
+    },
+    {
+      "id": "r_290",
+      "text": "It's not a would, right? It's not a if, it's not a if, it's just when.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7481s",
+        "date": "2020-10-24"
+      },
+      "image": "r_290.jpg"
+    },
+    {
+      "id": "r_291",
+      "text": "It proves in some way that a lot of the things I said that were crazy, I was actually right about.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7522s",
+        "date": "2020-10-24"
+      },
+      "image": "r_291.jpg"
+    },
+    {
+      "id": "r_292",
+      "text": "I've traveled more than any president already.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7815s",
+        "date": "2020-10-24"
+      },
+      "image": "r_292.jpg"
+    },
+    {
+      "id": "r_293",
+      "text": "I put rivals on songs together to create masterpieces.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7821s",
+        "date": "2020-10-24"
+      },
+      "image": "r_293.jpg"
+    },
+    {
+      "id": "r_294",
+      "text": "Think about the world as a giant piano, but we're playing off key.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7952s",
+        "date": "2020-10-24"
+      },
+      "image": "r_294.jpg"
+    },
+    {
+      "id": "r_295",
+      "text": "I spent a year in China when I was in fifth grade. I used to speak Chinese.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7964s",
+        "date": "2020-10-24"
+      },
+      "image": "r_295.jpg"
+    },
+    {
+      "id": "r_298",
+      "text": "I'm completely confident that I will figure out how to get America out of debt.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8283s",
+        "date": "2020-10-24"
+      },
+      "image": "r_298.jpg"
+    },
+    {
+      "id": "r_299",
+      "text": "Once I see everything, I never make the wrong decision when I'm given all the information.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8292s",
+        "date": "2020-10-24"
+      },
+      "image": "r_299.jpg"
+    },
+    {
+      "id": "r_301",
+      "text": "Look, man, if you ain't gonna say who you voting on out loud, don't even wear the vote T-shirt.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8607s",
+        "date": "2020-10-24"
+      },
+      "image": "r_301.jpg"
+    },
+    {
+      "id": "r_302",
+      "text": "You guys got 300 million viewers, you know, after this, it'd probably be 900 million, 'cause you know, I run the stock up.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8718s",
+        "date": "2020-10-24"
+      },
+      "image": "r_302.jpg"
+    },
+    {
+      "id": "r_304",
+      "text": "They ain't gonna come for me until He done with me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9564s",
+        "date": "2020-10-24"
+      },
+      "image": "r_304.jpg"
+    },
+    {
+      "id": "r_305",
+      "text": "I paint in circles, you know, I don't paint inside of the lines.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9777s",
+        "date": "2020-10-24"
+      },
+      "image": "r_305.jpg"
+    },
+    {
+      "id": "r_306",
+      "text": "I was in computer programming when I was eight years old, and I used to know how to program. This is how I got into music. In seventh grade, I had a Amiga computer that had 4,096 colors, that's why I got that one.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9834s",
+        "date": "2020-10-24"
+      },
+      "image": "r_306.jpg"
+    },
+    {
+      "id": "r_307",
+      "text": "I'm the person that you actually call when things are not going so well.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=10413s",
+        "date": "2020-10-24"
+      },
+      "image": "r_307.jpg"
+    },
+    {
+      "id": "r_308",
+      "text": "You could walk down a straight line without worrying about anything. But you take that exact straight line and put it 20 stories high, and you remove the balconies, you're going to be so concerned about the idea of falling that it will make you fall. And that's where the superpower is, in removing the fear.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=8202s",
+        "date": "2020-10-24"
+      },
+      "image": "r_308.jpg"
+    },
+    {
+      "id": "r_309",
+      "text": "There couldn't be a better time to put a visionary in the captain's chair.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=349s",
+        "date": "2020-10-24"
+      },
+      "image": "r_309.jpg"
+    },
+    {
+      "id": "r_310",
+      "text": "When the Constitution was written, that was an innovation. Now the world is innovated all around our political system, but we haven't innovated and simplified our political system.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=488s",
+        "date": "2020-10-24"
+      },
+      "image": "r_310.jpg"
+    },
+    {
+      "id": "r_311",
+      "text": "It's not about me getting my masters back. It's about, it's about freedom.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=967s",
+        "date": "2020-10-24"
+      },
+      "image": "r_311.jpg"
+    },
+    {
+      "id": "r_312",
+      "text": "The dumbest question I've ever asked myself, I said, well, you know, how much does the earth cost?",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1035s",
+        "date": "2020-10-24"
+      },
+      "image": "r_312.jpg"
+    },
+    {
+      "id": "r_313",
+      "text": "People are so programmed and brainwashed into classism and protectionism that it's difficult for people to embrace innovation unless it has a tag on it.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1095s",
+        "date": "2020-10-24"
+      },
+      "image": "r_313.jpg"
+    },
+    {
+      "id": "r_314",
+      "text": "I'm like the little drummer boy, where I'm saying, this is all I got to bring, my drum. I might not be well versed in the Word, but I know how to make music, and I know how to put this choir together.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1161s",
+        "date": "2020-10-24"
+      },
+      "image": "r_314.jpg"
+    },
+    {
+      "id": "r_315",
+      "text": "I feel like God says to me, like, haven't I given you enough? And I gave you an ego that helped you overcome all these, you know, roadblocks and smokescreens and people telling you what you can't do. Now you need to realize when you're doing things for your ego and when you're doing things for me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1221s",
+        "date": "2020-10-24"
+      },
+      "image": "r_315.jpg"
+    },
+    {
+      "id": "r_316",
+      "text": "It really irritates me when people say, \"God told me to tell you.\"",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1244s",
+        "date": "2020-10-24"
+      },
+      "image": "r_316.jpg"
+    },
+    {
+      "id": "r_317",
+      "text": "Sometimes you see me on Twitter, I say I want all the smoke, I want all the problems, because the problems are the opportunities.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1268s",
+        "date": "2020-10-24"
+      },
+      "image": "r_317.jpg"
+    },
+    {
+      "id": "r_318",
+      "text": "No one outside of our country should be able to see these debates. This is family business right here.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1341s",
+        "date": "2020-10-24"
+      },
+      "image": "r_318.jpg"
+    },
+    {
+      "id": "r_319",
+      "text": "I've envisioned and will manifest a 200,000-seat stadium, circular, with 100,000 gospel singers.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1614s",
+        "date": "2020-10-24"
+      },
+      "image": "r_319.jpg"
+    },
+    {
+      "id": "r_320",
+      "text": "People always make the kids version. I don't like this, the kids version thing.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1838s",
+        "date": "2020-10-24"
+      },
+      "image": "r_320.jpg"
+    },
+    {
+      "id": "r_321",
+      "text": "Isn't farming and cooking, like, bioengineering at the simplest form?",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=1976s",
+        "date": "2020-10-24"
+      },
+      "image": "r_321.jpg"
+    },
+    {
+      "id": "r_322",
+      "text": "These cities have been designed to promote industry and just to make more money. They haven't been designed to promote happiness.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2050s",
+        "date": "2020-10-24"
+      },
+      "image": "r_322.jpg"
+    },
+    {
+      "id": "r_323",
+      "text": "Relationships are a more important currency than money itself.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2098s",
+        "date": "2020-10-24"
+      },
+      "image": "r_323.jpg"
+    },
+    {
+      "id": "r_324",
+      "text": "I know who I am, and I'm not finna bow to an idea that you want to have of me. I am going to be the full idea that God has of me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2803s",
+        "date": "2020-10-24"
+      },
+      "image": "r_324.jpg"
+    },
+    {
+      "id": "r_325",
+      "text": "The devil will use you against you. You become your own worst enemy.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=2850s",
+        "date": "2020-10-24"
+      },
+      "image": "r_325.jpg"
+    },
+    {
+      "id": "r_326",
+      "text": "I went from having confidence and arrogance to having faith, and faith is the opposite of fear.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=3134s",
+        "date": "2020-10-24"
+      },
+      "image": "r_326.jpg"
+    },
+    {
+      "id": "r_327",
+      "text": "We like having a bad guy, we like having a competitor. So what we need to do is change the bad guy, change the competitor, make the competitor be the Roman era, the Roman civilization. Make the competitor be the Egyptian kingdom, and say we're the first society, we're the first civilization that ever became civil.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4054s",
+        "date": "2020-10-24"
+      },
+      "image": "r_327.jpg"
+    },
+    {
+      "id": "r_328",
+      "text": "There's, you know, homeless sleeping under, you know, a bridge in Calabasas because we ignored the homeless person sleeping in front of the Gucci store.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4127s",
+        "date": "2020-10-24"
+      },
+      "image": "r_328.jpg"
+    },
+    {
+      "id": "r_329",
+      "text": "Imagine if Elon was working at GM on the third floor somewhere. You know, we wouldn't have electric cars.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4181s",
+        "date": "2020-10-24"
+      },
+      "image": "r_329.jpg"
+    },
+    {
+      "id": "r_330",
+      "text": "If you instill the fear of God, you eliminate the fear of anything else.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4314s",
+        "date": "2020-10-24"
+      },
+      "image": "r_330.jpg"
+    },
+    {
+      "id": "r_331",
+      "text": "I used to have this really smart-alec prayer. I said, God, deliver me from pain. And then he took my mom. So it's hard to hurt that much ever again.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4415s",
+        "date": "2020-10-24"
+      },
+      "image": "r_331.jpg"
+    },
+    {
+      "id": "r_332",
+      "text": "I read this tweet that someone said, \"I finished watching Netflix, what's next?\" And that's so true, that we can't even program enough to satisfy ourselves.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4668s",
+        "date": "2020-10-24"
+      },
+      "image": "r_332.jpg"
+    },
+    {
+      "id": "r_333",
+      "text": "The program is done. Forrest Gump has stopped running and just turned around.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=4684s",
+        "date": "2020-10-24"
+      },
+      "image": "r_333.jpg"
+    },
+    {
+      "id": "r_334",
+      "text": "My dad, he lives in a DR, and he says, you know, anything that you put in the ground grows, so why do people still go hungry? And I like that in theory, but I was like, man, farming is really hard though, man.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5103s",
+        "date": "2020-10-24"
+      },
+      "image": "r_334.jpg"
+    },
+    {
+      "id": "r_335",
+      "text": "I've got millions of images in my mind, and the majority of them haven't been realized yet.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5143s",
+        "date": "2020-10-24"
+      },
+      "image": "r_335.jpg"
+    },
+    {
+      "id": "r_336",
+      "text": "There's times where people who work with me or, say, my mentees or whatever will go out and they'll do something that I wanted to do. And then I'm torn, because as a man, I'm jealous and I'm proud at the same time.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5434s",
+        "date": "2020-10-24"
+      },
+      "image": "r_336.jpg"
+    },
+    {
+      "id": "r_337",
+      "text": "We got to realize we're in a relay race of humanity.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5490s",
+        "date": "2020-10-24"
+      },
+      "image": "r_337.jpg"
+    },
+    {
+      "id": "r_338",
+      "text": "The rich people with the Hermès belts didn't wanna lose their position so bad that they would rather wait in the first class line than to have the time back.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5622s",
+        "date": "2020-10-24"
+      },
+      "image": "r_338.jpg"
+    },
+    {
+      "id": "r_339",
+      "text": "I'm anchoring on real life to make real life as awesome as games, to make real life as awesome as movies.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5864s",
+        "date": "2020-10-24"
+      },
+      "image": "r_339.jpg"
+    },
+    {
+      "id": "r_340",
+      "text": "Someone could say, \"Hey, I got you a new car and it's across the street,\" and you get so excited, you run across the street, get hit by a car trying to run to your new... But if you're energized about having the car, perhaps you look both ways.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=5942s",
+        "date": "2020-10-24"
+      },
+      "image": "r_340.jpg"
+    },
+    {
+      "id": "r_341",
+      "text": "There's a lot of words that end with U-R-E that are very powerful. Future, sure, pure, endure.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6007s",
+        "date": "2020-10-24"
+      },
+      "image": "r_341.jpg"
+    },
+    {
+      "id": "r_342",
+      "text": "Now I'm making the whole Star Wars in real life, like backwards. Like the product came first.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6300s",
+        "date": "2020-10-24"
+      },
+      "image": "r_342.jpg"
+    },
+    {
+      "id": "r_343",
+      "text": "It's coming from my heart and my gut, but when it's the most pure, it's coming from God, and I'm being used as a channel.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=6378s",
+        "date": "2020-10-24"
+      },
+      "image": "r_343.jpg"
+    },
+    {
+      "id": "r_344",
+      "text": "You can give me advice, but they got to talk to the boss, which is me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7010s",
+        "date": "2020-10-24"
+      },
+      "image": "r_344.jpg"
+    },
+    {
+      "id": "r_345",
+      "text": "Now I cancel all my credit cards except for one credit card.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7058s",
+        "date": "2020-10-24"
+      },
+      "image": "r_345.jpg"
+    },
+    {
+      "id": "r_346",
+      "text": "People were like, you can't show your taxes, because people won't understand that you're a billionaire if they see that you only netted 10 million last year.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7108s",
+        "date": "2020-10-24"
+      },
+      "image": "r_346.jpg"
+    },
+    {
+      "id": "r_347",
+      "text": "I always had clothes that were kind of chill, like they could be at the Gap. They were not overly fashionable. And God said, you, you, you stood in the gap.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7247s",
+        "date": "2020-10-24"
+      },
+      "image": "r_347.jpg"
+    },
+    {
+      "id": "r_348",
+      "text": "I used to be in San Fran asking people to invest in me. Nobody invested me.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7314s",
+        "date": "2020-10-24"
+      },
+      "image": "r_348.jpg"
+    },
+    {
+      "id": "r_349",
+      "text": "Money is just a tool. It's like nails. I got the most nails.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7509s",
+        "date": "2020-10-24"
+      },
+      "image": "r_349.jpg"
+    },
+    {
+      "id": "r_350",
+      "text": "$300 million of cash a year, you don't get trained for that. That's like astronaut training.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7559s",
+        "date": "2020-10-24"
+      },
+      "image": "r_350.jpg"
+    },
+    {
+      "id": "r_351",
+      "text": "I had an argument with one of my managers because I made my own travel ban in my organization.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7613s",
+        "date": "2020-10-24"
+      },
+      "image": "r_351.jpg"
+    },
+    {
+      "id": "r_352",
+      "text": "America's greatest export is influence and culture.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=7987s",
+        "date": "2020-10-24"
+      },
+      "image": "r_352.jpg"
+    },
+    {
+      "id": "r_354",
+      "text": "We have the solutions, but we all have our backs to each other. We need to face each other.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9259s",
+        "date": "2020-10-24"
+      },
+      "image": "r_354.jpg"
+    },
+    {
+      "id": "r_355",
+      "text": "The solutions for utopia are in front of us. But what's holding us back? Fear. People are sitting on their money. Really, they're sitting under their money.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9271s",
+        "date": "2020-10-24"
+      },
+      "image": "r_355.jpg"
+    },
+    {
+      "id": "r_356",
+      "text": "This is like worse than when you don't accept water on the plane, and they just keep like, \"Do you want some more water?\" I'll take the water, because I don't want to be responsible for the water.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9318s",
+        "date": "2020-10-24"
+      },
+      "image": "r_356.jpg"
+    },
+    {
+      "id": "r_358",
+      "text": "There's this, like, photograph where the little girl's holding a teddy bear, and Jesus has a giant teddy bear behind her back. I mean, behind his back. She don't want to give up the small teddy bear for the bigger teddy bear that Jesus has waiting for her.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9509s",
+        "date": "2020-10-24"
+      },
+      "image": "r_358.jpg"
+    },
+    {
+      "id": "r_359",
+      "text": "If I didn't take a breath after this point, God had me here for this conversation right now.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9557s",
+        "date": "2020-10-24"
+      },
+      "image": "r_359.jpg"
+    },
+    {
+      "id": "r_360",
+      "text": "People love to, like, look at the Christians that are the least Christ-like to judge Christianity as a whole.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9690s",
+        "date": "2020-10-24"
+      },
+      "image": "r_360.jpg"
+    },
+    {
+      "id": "r_361",
+      "text": "I found myself running home from school, all the way from 95th Street to 119th Street, to go and just keep programming the music.",
+      "isReal": true,
+      "type": "interview",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary",
+      "source": {
+        "label": "The Joe Rogan Experience #1554, October 24, 2020",
+        "url": "https://www.youtube.com/watch?v=qxOeWuAHOiw&t=9863s",
+        "date": "2020-10-24"
+      },
+      "image": "r_361.jpg"
     }
   ]
 }
