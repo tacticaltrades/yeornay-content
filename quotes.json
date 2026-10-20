@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 33,
+  "version": 36,
   "quotes": [
     {
       "id": "r_007",
@@ -4979,6 +4979,406 @@
         "date": "2020-10-24"
       },
       "image": "r_361.jpg"
+    },
+    {
+      "id": "f_035",
+      "text": "sometimes the best meeting is the one you cancel",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_036",
+      "text": "I listen to my own albums like they're somebody else's",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_037",
+      "text": "socks are a lie we tell our feet",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_038",
+      "text": "I don't do small talk. I do tall talk.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_039",
+      "text": "every chair is a throne if you sit in it right",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_040",
+      "text": "airports are the most honest buildings",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_041",
+      "text": "I'm learning how to be bored again",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_042",
+      "text": "WE NEED MORE BENCHES",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_043",
+      "text": "beige is a feeling",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_044",
+      "text": "my kids ask better questions than journalists",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_045",
+      "text": "nobody is talking about how loud refrigerators are",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_046",
+      "text": "today I chose peace and also a new sketchbook",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_047",
+      "text": "I want my homes to feel like a held breath",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_048",
+      "text": "ALL CAPS IS JUST HOW MY HEART TYPES",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_049",
+      "text": "we need to bring back handshakes. real ones. two hands.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_050",
+      "text": "the kanye from 2004 wouldn't understand the ye of today and that's how you know it's working",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_051",
+      "text": "I JUST WANT TO SAY THANK YOU TO EVERYBODY WHO DOUBTED ME. YOU WERE THE FUEL AND I DIDN'T EVEN HAVE TO PAY FOR GAS",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_052",
+      "text": "I designed a cup you can't put down until you finish the thought.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_053",
+      "text": "People ask me what my favorite color is. Right now it's the color of wet concrete.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_054",
+      "text": "The first thing I do in a new city is find out what time the bakeries open.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_055",
+      "text": "I took the mirrors out of my studio. I don't need to see me, I need to hear me.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_056",
+      "text": "My daughter told me the moon follows our car. I said no, the moon follows the vision.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_057",
+      "text": "Every time somebody tells you to calm down, they're asking you to be smaller.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_058",
+      "text": "I'm not a celebrity. I'm a public servant with good shoes.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_059",
+      "text": "If a room has more than three colors in it, it's arguing with itself.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_060",
+      "text": "I wake up at 4 a.m. not because I have to, but because the ideas are less crowded.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_061",
+      "text": "Paper is still the best technology. It never needs an update.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_062",
+      "text": "I don't want to win the game. I want to redesign the board.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_063",
+      "text": "I told my team, no more PowerPoints. If you can't draw it on a napkin, it's not ready.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_064",
+      "text": "People think I'm angry. I'm not angry. I'm just, I'm very, very awake.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_065",
+      "text": "Clothes should feel like a hug from somebody who's not trying to get anything from you.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_066",
+      "text": "Hotels are the worst. Everything is designed so you never feel at home, so you'll keep coming back looking for it.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_067",
+      "text": "You know, people think a sneaker is a shoe. A sneaker is a, it's a, it's a sentence. It's how you walk into a room and say something before you even open your mouth.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_068",
+      "text": "I remember being in the studio like eleven hours on one snare, and everybody's like, it's fine, it's fine. And I'm like, fine is the enemy. Fine is how they keep you in the middle.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_069",
+      "text": "When I was a kid I used to draw floor plans of houses that didn't exist. Like, I'd draw where the kitchen goes, where the, you know, where the light comes in. I was doing architecture before I knew the word.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_070",
+      "text": "The thing about fear is it's very organized. Fear has meetings. Fear has a calendar. So you gotta be more organized than the fear.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_071",
+      "text": "I'm not trying to be the loudest person in the room. I'm trying to change what the room sounds like, like the acoustics of the whole culture.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_072",
+      "text": "Everybody's on their phone, right? We got the whole world in our pocket and we still feel lonely. That's, that's a design problem. That's not a people problem, that's a design problem.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_073",
+      "text": "If you go to a restaurant and they give you a menu with a hundred things on it, that's fear. They're scared you won't like them. The best places got like four things on the menu.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_074",
+      "text": "People ask me, like, what's a hero. A hero is somebody who isn't scared to look stupid. That's it. That's the whole thing.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_075",
+      "text": "You can't be a visionary and a people pleaser at the same time. One of them is gonna lose, and usually it's the visionary.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_076",
+      "text": "I don't believe in writer's block. I believe in, like, listener's block. You stopped listening to what's already coming through.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_077",
+      "text": "Sometimes I'll be in a meeting and I'll just start drawing on the table. Like on the actual table. And people get uncomfortable, but that table is better now.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_078",
+      "text": "Pride is a heavy coat. You don't notice how heavy it is till you take it off, and then you're like, why was I wearing this in the summer?",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_079",
+      "text": "I want to build a city where nobody has to drive to get a glass of water. Where the farm is the front yard and the school is the backyard.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_080",
+      "text": "Every album I made, I made it like it was gonna be the last thing anybody ever heard from me. That's the only way I know how to do it.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_081",
+      "text": "You can tell everything about a man by how he treats a waiter and how he folds a shirt.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_082",
+      "text": "Honestly, the best idea I ever had came to me while I was waiting in line for coffee. Not in the studio, not in a meeting. In line. God has a sense of humor.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_083",
+      "text": "I keep a notebook by the bed, a notebook in the car, a notebook in the shower. I'm still working on the shower one. It's not going well.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_084",
+      "text": "Money is loud, but ideas are louder. They just take longer to arrive.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
     }
   ]
 }
