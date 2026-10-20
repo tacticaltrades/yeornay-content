@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 31,
+  "version": 33,
   "quotes": [
     {
       "id": "r_007",
@@ -908,7 +908,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_006",
@@ -916,7 +916,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_007",
@@ -924,7 +924,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_008",
@@ -932,7 +932,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_009",
@@ -940,7 +940,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_010",
@@ -948,7 +948,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_011",
@@ -956,7 +956,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_012",
@@ -964,7 +964,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_013",
@@ -972,7 +972,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_014",
@@ -980,7 +980,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 1,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_015",
@@ -988,7 +988,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_016",
@@ -996,7 +996,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_017",
@@ -1004,7 +1004,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_018",
@@ -1012,7 +1012,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_019",
@@ -1020,7 +1020,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_020",
@@ -1028,7 +1028,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_021",
@@ -1036,7 +1036,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_022",
@@ -1044,7 +1044,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_023",
@@ -1052,7 +1052,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_024",
@@ -1060,7 +1060,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_025",
@@ -1068,7 +1068,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_026",
@@ -1076,7 +1076,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 1,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_027",
@@ -1084,7 +1084,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_028",
@@ -1092,7 +1092,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_029",
@@ -1100,7 +1100,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_030",
@@ -1108,7 +1108,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_031",
@@ -1116,7 +1116,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_032",
@@ -1124,7 +1124,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 3,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_033",
@@ -1132,7 +1132,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 1,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "f_034",
@@ -1140,7 +1140,7 @@
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
-      "verificationStatus": "unverified"
+      "verificationStatus": "verified_primary"
     },
     {
       "id": "r_080",
@@ -1148,7 +1148,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 4, 2013",
         "url": "https://twitter.com/kanyewest/status/352660601681625088",
@@ -1163,7 +1163,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 20, 2013",
         "url": "https://twitter.com/kanyewest/status/358614185086693377",
@@ -1178,7 +1178,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 9, 2013",
         "url": "https://twitter.com/kanyewest/status/410096820291772416",
@@ -1193,7 +1193,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 9, 2013",
         "url": "https://twitter.com/kanyewest/status/410097053021130752",
@@ -1208,7 +1208,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 10, 2014",
         "url": "https://twitter.com/kanyewest/status/432952954711056384",
@@ -1223,7 +1223,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 10, 2014",
         "url": "https://twitter.com/kanyewest/status/432952731121115137",
@@ -1238,7 +1238,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 10, 2014",
         "url": "https://twitter.com/kanyewest/status/432952992677896192",
@@ -1253,7 +1253,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, October 6, 2014",
         "url": "https://twitter.com/kanyewest/status/519063062184083456",
@@ -1268,7 +1268,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, November 4, 2014",
         "url": "https://twitter.com/kanyewest/status/529775685447843841",
@@ -1283,7 +1283,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, November 4, 2014",
         "url": "https://twitter.com/kanyewest/status/529775530225065984",
@@ -1298,7 +1298,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 20, 2015",
         "url": "https://twitter.com/kanyewest/status/568799064843685888",
@@ -1313,7 +1313,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 20, 2015",
         "url": "https://twitter.com/kanyewest/status/568799246226292737",
@@ -1328,7 +1328,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 20, 2015",
         "url": "https://twitter.com/kanyewest/status/568799196234387457",
@@ -1343,7 +1343,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 20, 2015",
         "url": "https://twitter.com/kanyewest/status/568799361599082496",
@@ -1358,7 +1358,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 16, 2015",
         "url": "https://twitter.com/kanyewest/status/577528628465917952",
@@ -1372,7 +1372,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 10, 2015",
         "url": "https://twitter.com/kanyewest/status/586360975151927297",
@@ -1387,7 +1387,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 11, 2015",
         "url": "https://twitter.com/kanyewest/status/586724932421193728",
@@ -1402,7 +1402,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 13, 2015",
         "url": "https://twitter.com/kanyewest/status/675934047332261888",
@@ -1417,7 +1417,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, January 27, 2016",
         "url": "https://twitter.com/kanyewest/status/692446531404877827",
@@ -1432,7 +1432,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 3, 2016",
         "url": "https://twitter.com/kanyewest/status/694721638714052608",
@@ -1447,7 +1447,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 4, 2016",
         "url": "https://twitter.com/kanyewest/status/695265381670219778",
@@ -1462,7 +1462,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 12, 2016",
         "url": "https://twitter.com/kanyewest/status/698147489057218560",
@@ -1477,7 +1477,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 12, 2016",
         "url": "https://twitter.com/kanyewest/status/698147169182810112",
@@ -1492,7 +1492,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 12, 2016",
         "url": "https://twitter.com/kanyewest/status/698146943927787522",
@@ -1507,7 +1507,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 13, 2016",
         "url": "https://twitter.com/kanyewest/status/698421874754072576",
@@ -1522,7 +1522,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 13, 2016",
         "url": "https://twitter.com/kanyewest/status/698422992041160704",
@@ -1537,7 +1537,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 13, 2016",
         "url": "https://twitter.com/kanyewest/status/698421911110352896",
@@ -1552,7 +1552,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 13, 2016",
         "url": "https://twitter.com/kanyewest/status/698423521370705920",
@@ -1567,7 +1567,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 13, 2016",
         "url": "https://twitter.com/kanyewest/status/698421813919948800",
@@ -1582,7 +1582,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 14, 2016",
         "url": "https://twitter.com/kanyewest/status/698699981688074240",
@@ -1597,7 +1597,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 14, 2016",
         "url": "https://twitter.com/kanyewest/status/698699798673809409",
@@ -1612,7 +1612,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699090219493097472",
@@ -1627,7 +1627,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699308848813723649",
@@ -1642,7 +1642,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699374943637647360",
@@ -1657,7 +1657,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699107972107104257",
@@ -1672,7 +1672,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699374593996300288",
@@ -1687,7 +1687,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699308079171522561",
@@ -1702,7 +1702,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 15, 2016",
         "url": "https://twitter.com/kanyewest/status/699308725962575878",
@@ -1717,7 +1717,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 16, 2016",
         "url": "https://twitter.com/kanyewest/status/699502974448640000",
@@ -1732,7 +1732,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702441966341062657",
@@ -1747,7 +1747,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702564426461913092",
@@ -1762,7 +1762,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702568134847406080",
@@ -1777,7 +1777,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702606143135342594",
@@ -1792,7 +1792,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702568190698725376",
@@ -1807,7 +1807,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702627165146386433",
@@ -1822,7 +1822,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702563738512203776",
@@ -1837,7 +1837,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, February 24, 2016",
         "url": "https://twitter.com/kanyewest/status/702565054047244289",
@@ -1852,7 +1852,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 2, 2016",
         "url": "https://twitter.com/kanyewest/status/705100610002096128",
@@ -1867,7 +1867,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 2, 2016",
         "url": "https://twitter.com/kanyewest/status/705099806834823168",
@@ -1882,7 +1882,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 7, 2016",
         "url": "https://twitter.com/kanyewest/status/706896340425568258",
@@ -1897,7 +1897,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707709451298611200",
@@ -1912,7 +1912,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707370922064396288",
@@ -1927,7 +1927,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707372614407340033",
@@ -1942,7 +1942,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707365972194283520",
@@ -1957,7 +1957,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707368315367366659",
@@ -1972,7 +1972,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707705291056541697",
@@ -1987,7 +1987,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707374347854417920",
@@ -2002,7 +2002,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707373780692242433",
@@ -2017,7 +2017,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707373911214833664",
@@ -2032,7 +2032,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 9, 2016",
         "url": "https://twitter.com/kanyewest/status/707710313932713985",
@@ -2047,7 +2047,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 14, 2016",
         "url": "https://twitter.com/kanyewest/status/709409643387297792",
@@ -2062,7 +2062,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 14, 2016",
         "url": "https://twitter.com/kanyewest/status/709408940908486657",
@@ -2077,7 +2077,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 22, 2016",
         "url": "https://twitter.com/kanyewest/status/712423834293559297",
@@ -2092,7 +2092,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 22, 2016",
         "url": "https://twitter.com/kanyewest/status/712420933445750784",
@@ -2107,7 +2107,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 23, 2016",
         "url": "https://twitter.com/kanyewest/status/712430696426565632",
@@ -2122,7 +2122,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, March 31, 2016",
         "url": "https://twitter.com/kanyewest/status/715370280542203904",
@@ -2137,7 +2137,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 17, 2018",
         "url": "https://twitter.com/kanyewest/status/986302131106975749",
@@ -2152,7 +2152,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 18, 2018",
         "url": "https://twitter.com/kanyewest/status/986641122381344768",
@@ -2167,7 +2167,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 19, 2018",
         "url": "https://twitter.com/kanyewest/status/986759302311395328",
@@ -2182,7 +2182,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 19, 2018",
         "url": "https://twitter.com/kanyewest/status/986979473496002560",
@@ -2197,7 +2197,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 19, 2018",
         "url": "https://twitter.com/kanyewest/status/987018557660717056",
@@ -2212,7 +2212,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 21, 2018",
         "url": "https://twitter.com/kanyewest/status/987737044263682050",
@@ -2227,7 +2227,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 22, 2018",
         "url": "https://twitter.com/kanyewest/status/988122682766970880",
@@ -2242,7 +2242,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 23, 2018",
         "url": "https://twitter.com/kanyewest/status/988463014423609345",
@@ -2257,7 +2257,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 24, 2018",
         "url": "https://twitter.com/kanyewest/status/988798056798670851",
@@ -2272,7 +2272,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 24, 2018",
         "url": "https://twitter.com/kanyewest/status/988571191651713024",
@@ -2287,7 +2287,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 24, 2018",
         "url": "https://twitter.com/kanyewest/status/988572877539569665",
@@ -2302,7 +2302,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 24, 2018",
         "url": "https://twitter.com/kanyewest/status/988648873999548416",
@@ -2317,7 +2317,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989142351321874432",
@@ -2332,7 +2332,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989244800409862144",
@@ -2347,7 +2347,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989171941998149637",
@@ -2362,7 +2362,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989162018664935424",
@@ -2377,7 +2377,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989165838803517440",
@@ -2392,7 +2392,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/988989883849961472",
@@ -2407,7 +2407,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989181401223249921",
@@ -2422,7 +2422,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989268601851920384",
@@ -2437,7 +2437,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989272340432240641",
@@ -2452,7 +2452,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 25, 2018",
         "url": "https://twitter.com/kanyewest/status/989268464392011776",
@@ -2467,7 +2467,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 26, 2018",
         "url": "https://twitter.com/kanyewest/status/989526297758978048",
@@ -2482,7 +2482,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 26, 2018",
         "url": "https://twitter.com/kanyewest/status/989549960436699136",
@@ -2497,7 +2497,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 26, 2018",
         "url": "https://twitter.com/kanyewest/status/989533251059437569",
@@ -2512,7 +2512,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 26, 2018",
         "url": "https://twitter.com/kanyewest/status/989562129496731648",
@@ -2527,7 +2527,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 26, 2018",
         "url": "https://twitter.com/kanyewest/status/989525041669787649",
@@ -2542,7 +2542,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 26, 2018",
         "url": "https://twitter.com/kanyewest/status/989555920186228736",
@@ -2557,7 +2557,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 28, 2018",
         "url": "https://twitter.com/kanyewest/status/990094756985253888",
@@ -2571,7 +2571,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, April 28, 2018",
         "url": "https://twitter.com/kanyewest/status/990303291706785792",
@@ -2585,7 +2585,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 1, 2018",
         "url": "https://twitter.com/kanyewest/status/991460307208847360",
@@ -2600,7 +2600,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 2, 2018",
         "url": "https://twitter.com/kanyewest/status/991561089291702274",
@@ -2615,7 +2615,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 4, 2018",
         "url": "https://twitter.com/kanyewest/status/992476928346017792",
@@ -2630,7 +2630,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 6, 2018",
         "url": "https://twitter.com/kanyewest/status/993212368225124353",
@@ -2645,7 +2645,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 6, 2018",
         "url": "https://twitter.com/kanyewest/status/992962234102857728",
@@ -2660,7 +2660,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 7, 2018",
         "url": "https://twitter.com/kanyewest/status/993562911560761344",
@@ -2675,7 +2675,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, May 21, 2018",
         "url": "https://twitter.com/kanyewest/status/998641541395636226",
@@ -2690,7 +2690,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 11, 2018",
         "url": "https://twitter.com/kanyewest/status/1006240112651337728",
@@ -2705,7 +2705,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 12, 2018",
         "url": "https://twitter.com/kanyewest/status/1006680756779798528",
@@ -2720,7 +2720,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 13, 2018",
         "url": "https://twitter.com/kanyewest/status/1006959393965948928",
@@ -2735,7 +2735,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1007242346763698176",
@@ -2750,7 +2750,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1007239893481766912",
@@ -2765,7 +2765,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1007239618041765889",
@@ -2780,7 +2780,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1007239693291773952",
@@ -2795,7 +2795,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1007240200727089153",
@@ -2810,7 +2810,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1007239543408357377",
@@ -2825,7 +2825,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, June 22, 2018",
         "url": "https://twitter.com/kanyewest/status/1010015133785939969",
@@ -2840,7 +2840,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 8, 2018",
         "url": "https://twitter.com/kanyewest/status/1015818124698910721",
@@ -2855,7 +2855,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 12, 2018",
         "url": "https://twitter.com/kanyewest/status/1017492030761549824",
@@ -2870,7 +2870,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 12, 2018",
         "url": "https://twitter.com/kanyewest/status/1017477742260961280",
@@ -2885,7 +2885,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1018176769843593216",
@@ -2900,7 +2900,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1018257129457606656",
@@ -2915,7 +2915,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 27, 2018",
         "url": "https://twitter.com/kanyewest/status/1022952843563556864",
@@ -2930,7 +2930,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, August 13, 2018",
         "url": "https://twitter.com/kanyewest/status/1029102535389237250",
@@ -2945,7 +2945,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, August 21, 2018",
         "url": "https://twitter.com/kanyewest/status/1032007965706874880",
@@ -2960,7 +2960,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, August 27, 2018",
         "url": "https://twitter.com/kanyewest/status/1034108182090534914",
@@ -2975,7 +2975,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, August 27, 2018",
         "url": "https://twitter.com/kanyewest/status/1034115344233709568",
@@ -2990,7 +2990,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, August 27, 2018",
         "url": "https://twitter.com/kanyewest/status/1034101919340347392",
@@ -3005,7 +3005,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, August 28, 2018",
         "url": "https://twitter.com/kanyewest/status/1034501234755915776",
@@ -3020,7 +3020,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 8, 2018",
         "url": "https://twitter.com/kanyewest/status/1038398647375810560",
@@ -3035,7 +3035,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 10, 2018",
         "url": "https://twitter.com/kanyewest/status/1038990702028308480",
@@ -3050,7 +3050,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 13, 2018",
         "url": "https://twitter.com/kanyewest/status/1040347073403596801",
@@ -3065,7 +3065,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 17, 2018",
         "url": "https://twitter.com/kanyewest/status/1041741691152064512",
@@ -3080,7 +3080,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 17, 2018",
         "url": "https://twitter.com/kanyewest/status/1041730174167920641",
@@ -3095,7 +3095,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 17, 2018",
         "url": "https://twitter.com/kanyewest/status/1041706314580221953",
@@ -3110,7 +3110,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 24, 2018",
         "url": "https://twitter.com/kanyewest/status/1044263766609674240",
@@ -3125,7 +3125,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 24, 2018",
         "url": "https://twitter.com/kanyewest/status/1044266964623876103",
@@ -3140,7 +3140,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 29, 2018",
         "url": "https://twitter.com/kanyewest/status/1046064289944080388",
@@ -3155,7 +3155,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, November 18, 2018",
         "url": "https://twitter.com/kanyewest/status/1064230822952099841",
@@ -3170,7 +3170,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 11, 2018",
         "url": "https://twitter.com/kanyewest/status/1072508998635712513",
@@ -3185,7 +3185,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1073419555198902272",
@@ -3200,7 +3200,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 14, 2018",
         "url": "https://twitter.com/kanyewest/status/1073454487816290304",
@@ -3215,7 +3215,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 15, 2018",
         "url": "https://twitter.com/kanyewest/status/1073924911922442240",
@@ -3230,7 +3230,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, December 15, 2018",
         "url": "https://twitter.com/kanyewest/status/1073927363287605248",
@@ -3245,7 +3245,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 3,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, July 21, 2020",
         "url": "https://twitter.com/kanyewest/status/1285395145098096640",
@@ -3260,7 +3260,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 16, 2020",
         "url": "https://twitter.com/kanyewest/status/1306224224311283714",
@@ -3275,7 +3275,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 1,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 16, 2020",
         "url": "https://twitter.com/kanyewest/status/1306046385712558081",
@@ -3290,7 +3290,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 16, 2020",
         "url": "https://twitter.com/kanyewest/status/1306033395726606337",
@@ -3305,7 +3305,7 @@
       "isReal": true,
       "type": "tweet",
       "difficulty": 2,
-      "verificationStatus": "unverified",
+      "verificationStatus": "verified_primary",
       "source": {
         "label": "Tweet by @kanyewest, September 22, 2020",
         "url": "https://twitter.com/kanyewest/status/1308385280651452416",
