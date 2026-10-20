@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 36,
+  "version": 38,
   "quotes": [
     {
       "id": "r_007",
@@ -5375,6 +5375,486 @@
     {
       "id": "f_084",
       "text": "Money is loud, but ideas are louder. They just take longer to arrive.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_085",
+      "text": "spent all day in the garden. the garden won.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_086",
+      "text": "my favorite sound is a room after everybody leaves",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_087",
+      "text": "we should be allowed to wear slippers to meetings",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_088",
+      "text": "I need a word that means happy and tired at the same time",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_089",
+      "text": "TODAY I DECIDED NOT TO EXPLAIN MYSELF TO ANYBODY",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_090",
+      "text": "shoutout to everybody who still writes in pencil",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_091",
+      "text": "a good chair is a love letter",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_092",
+      "text": "I'm not a morning person I'm an idea person",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_093",
+      "text": "bro the sky was crazy today",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_094",
+      "text": "I deleted all my apps except the ones that make me better",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_095",
+      "text": "kids don't need more toys they need more trees",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_096",
+      "text": "every room in my house is a different temperature for a different emotion",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_097",
+      "text": "God is the greatest designer and the trees prove it",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_098",
+      "text": "we live in the most comfortable prison ever built",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_099",
+      "text": "I want to make clothes you can sleep in, work in and pray in",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_100",
+      "text": "IF YOU'RE READING THIS YOU'RE PART OF THE TEAM NOW",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_101",
+      "text": "thinking about how every great building started as a doodle",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_102",
+      "text": "I don't need a vacation I need a new problem",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_103",
+      "text": "nobody ever got inspired in a parking garage",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_104",
+      "text": "my phone is on airplane mode and so is my spirit",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_105",
+      "text": "freedom smells like fresh paint",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_106",
+      "text": "THE INDUSTRY IS SCARED OF ANYBODY WHO DOESN'T NEED THE INDUSTRY",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_107",
+      "text": "every shoe I design starts as a feeling in my chest and ends up on somebody's feet on the other side of the world",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_108",
+      "text": "I don't look at the price tag. I look at how many people it took to make it.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_109",
+      "text": "The most dangerous word in the studio is \"later.\"",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_110",
+      "text": "I'm not trying to make the perfect song. I'm trying to make the song that makes you forget perfect exists.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_111",
+      "text": "When I design a shoe, I design the sound it makes on concrete first.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_112",
+      "text": "Every great idea sounds crazy for the first eleven minutes.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_113",
+      "text": "I don't hire people who agree with me. I can agree with me for free.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 1,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_114",
+      "text": "Some people want a seat at the table. I want to know who built the table.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_115",
+      "text": "You can't hear God if your calendar is too loud.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_116",
+      "text": "I've never trusted a building with too many signs. If it needs to tell you where to go, it wasn't designed right.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_117",
+      "text": "My best ideas don't fit in a text message. That's how I know they're good.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_118",
+      "text": "Nobody remembers the safe version.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_119",
+      "text": "Everybody should get to build something with their hands at least once a week.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_120",
+      "text": "Whoever invented the open office never had an idea in their life.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_121",
+      "text": "If they didn't laugh at you, you didn't aim high enough.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_122",
+      "text": "Sometimes you gotta lose the argument to win the relationship. I'm still learning that one.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_123",
+      "text": "I wear the same thing every day so I can spend my decisions on things that matter.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_124",
+      "text": "I was in a meeting one time, and somebody said, \"Let's be realistic.\" And I just got up and walked out. Like, I'm not, I'm not in the business of realistic. Realistic is what they call it when they already gave up.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_125",
+      "text": "People ask me, like, how do you know when an album is done? And it's never done. It's, it's like, they just take it from you. The album is never done, it just leaves the house.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_126",
+      "text": "I think every person should have to design one thing in their life. One chair, one cup, one shirt. Because then you understand, like, oh, somebody cared about this. Everything you touch, somebody cared about it.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_127",
+      "text": "The best thing about being underestimated is you get to, you know, you get to surprise people for free. You don't even have to pay for the marketing. They did the marketing for you.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_128",
+      "text": "Fashion, music, architecture, it's all the same thing to me. It's just, it's how do you make somebody feel when they walk into it. You walk into a song the same way you walk into a building.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_129",
+      "text": "I don't watch the news because the news is, like, it's designed to make you feel small. And I can't create from small. I gotta create from big.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_130",
+      "text": "When I first started making beats, I would sample everything. Like the sound of the dishwasher, the sound of the train. Everything is music if you listen long enough.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_131",
+      "text": "There's no such thing as a bad idea, there's only ideas that came too early. And you gotta, you gotta hold them, like, you gotta keep them warm until the world is ready.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_132",
+      "text": "You ever notice how everything in an airport is designed to make you buy something? The chairs are uncomfortable so you go to the restaurant. That's, that's intentional. That's somebody's job.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_133",
+      "text": "I like talking to people who don't know who I am. Because they're not talking to the idea of me. They're just talking to me, and that's, that's rare now.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_134",
+      "text": "I believe that, like, color is a language we forgot how to speak. Kids will put purple next to orange and not even think about it. Then we grow up and we start being scared of color.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_135",
+      "text": "I'm not competing with other artists. I'm competing with, like, the version of the world where I never made anything. That's the competition. I gotta beat that version.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_136",
+      "text": "Somebody asked me what I would do if I wasn't famous. I said the same thing. I'd just have less people watching.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_137",
+      "text": "You gotta protect your mornings. Because if you give your morning away, you gave the whole day away, and then you're just, you're living somebody else's plan.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_138",
+      "text": "The thing I love about building is you can't fake it. In music you can, like, you can fix it in the mix. But a wall is a wall. It's either standing or it's not.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_139",
+      "text": "Everybody's trying to go viral. I'm trying to go timeless. Viral is a cold. Timeless is a, it's a legacy.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_140",
+      "text": "When you're in the zone, you don't, you don't feel hungry, you don't feel tired. It's like the body just steps aside and lets the spirit drive for a while.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_141",
+      "text": "I think we should teach design in kindergarten. Before math, before reading. Teach them how to make a room feel good, and the rest will come.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 3,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_142",
+      "text": "I'm going to build a store with no checkout line. You walk in, you take what you need, and you walk out feeling better than when you came in. That's the store.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_143",
+      "text": "I can tell how a song is going to do by how the engineer moves his head. If his head moves, it's a hit. If he's looking at his phone, we start over.",
+      "isReal": false,
+      "type": "fake",
+      "difficulty": 2,
+      "verificationStatus": "verified_primary"
+    },
+    {
+      "id": "f_144",
+      "text": "I can't be in a room with fluorescent lights for more than ten minutes. That's not lighting, that's a sentence.",
       "isReal": false,
       "type": "fake",
       "difficulty": 2,
