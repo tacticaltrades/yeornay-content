@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 71,
+  "version": 72,
   "quotes": [
     {
       "id": "r_007",
@@ -10828,18 +10828,6 @@
       "image": "r_682.jpg"
     },
     {
-      "id": "r_683",
-      "text": "You don't get it mixed up with green juice and Erewhon. You ain't getting mixed up with yoga.",
-      "isReal": true,
-      "type": "interview",
-      "verificationStatus": "verified_primary",
-      "source": {
-        "label": "Big Boy's Neighborhood, Real 92.3, October 2019",
-        "url": "https://www.youtube.com/watch?v=t568Nd7k_Yk&t=2243s"
-      },
-      "image": "r_683.jpg"
-    },
-    {
       "id": "r_684",
       "text": "Obviously, there's some Christians that's bad people. You know what I mean? Like, real mean. I had an auntie that was real mean. Just made me hate church.",
       "isReal": true,
@@ -11561,7 +11549,7 @@
     },
     {
       "id": "r_744",
-      "text": "It's people that might be better programmers, better rappers. But where I think I really win is I had the heart. I had the heart to survive through that.",
+      "text": "It's people that might be better programmers, better rappers. But where I think I really won is I had the heart. I had the heart to survive through that.",
       "isReal": true,
       "type": "interview",
       "verificationStatus": "verified_primary",
@@ -11933,7 +11921,7 @@
     },
     {
       "id": "r_775",
-      "text": "I can talk, I can talk to the people's soul. And I'm kind of like, me and Dave Chappelle blew at the same time. We're the exact same person almost.",
+      "text": "I can talk, I can talk to the people's soul. And I'm kind of like, me and Dave Chappelle blew up at the same time. We're the exact same person almost.",
       "isReal": true,
       "type": "interview",
       "verificationStatus": "verified_primary",
